@@ -1,28 +1,4 @@
 #EXTM3U 
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] BBB 2021 (MOSAICO)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/94812.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] BBB 2021 (CAMERA 1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/93814.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] BBB 2021 (CAMERA 2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/94811.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] BBB 2021 (CAMERA 3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/94858.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] BBB 2021 (CAMERA 4)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/94859.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] BBB 2021 (CAMERA 5)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/94860.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] BBB 2021 (CAMERA 6)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/94861.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] BBB 2021 (CAMERA 7)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/94862.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] BBB 2021 ( CAMERA 8)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/94863.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] BBB 2021 (CAMERA 9)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/94864.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] BBB 2021 (CAMERA 10)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/94865.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] BBB 2021 (CAMERA 11)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/94866.m3u8
 #EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Irmão do Jorel
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/93334.m3u8
 #EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Scooby-Doo e Scrappy-Doo
@@ -73,6 +49,120 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsr
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/93664.m3u8
 #EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] iCarly
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/93813.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] 3 Palavrinhas ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54636.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] A Pequena Sereia•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54611.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] A Vaca e o Frango•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54614.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Aladdin•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54613.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] American Dad•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54599.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] As Meninas Superpoderosas•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54601.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Ben 10•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54602.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Beyblade•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54603.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Bob Esponja•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54615.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Bob Zoom •
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54639.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Cascão Maratona²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54640.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Castelo Rá-Tim-Bum•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54384.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Cavaleiros do Zodiaco²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54641.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Caverna do Dragão•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54616.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Chaves em Desenho Animado•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54617.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Chaves²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54414.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Detona Ralph•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54605.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Dora,[B][COLOR yellow][B]Super TV[/B][/COLOR]  a Aventureira•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54619.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Doug•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54620.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Formiga Atômica•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54622.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Fusão - Dragon Ball•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54621.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Galinha Pintadinha •
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54643.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Galinha Pintadinha²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54449.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Gasparzinho•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54623.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Hantaro•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54624.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Homem de Ferro•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54607.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Jackie Chan•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54600.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Jambo e Ruivão•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54625.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Johnny Bravo•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54381.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] João Grandão•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54626.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Ladybug•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54627.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Ligeirinho•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54608.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Lilo & Stitch•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54609.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Luluzinha •
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54644.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Magilla Gorilla•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54629.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Marcelino Pão e Vinho•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54630.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Masha e o Urso•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54579.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Naruto•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54631.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] O Máskara•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54632.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] O Novo Testamento
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/86435.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] O Poderoso Chefinho•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54610.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Os Cavaleiros do Zodíaco•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54604.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Os Flintstones•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54634.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Os Jetsons•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54542.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Os Padrinhos Mágicos•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54635.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Os Três Mosqueteiros•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54633.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Pernalonga•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54612.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Popeye•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54558.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Scooby-Doo•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54645.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Super Choque•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54598.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Tico e Teco •
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54547.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Timão e Pumba•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54549.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Denis o Pimentinha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/38367.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Liga da Justica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/38447.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Pica-Pau
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/38410.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Pink e Cérebro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/38411.m3u8
+#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Pokemon
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/38412.m3u8
 #EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] Cine Terror 01 - HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/93434.m3u8
 #EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] FOX - SPORTS HD¹
@@ -923,120 +1013,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsr
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/25105.m3u8
 #EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] ZOOMOO - HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/25104.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] 3 Palavrinhas ²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54636.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] A Pequena Sereia•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54611.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] A Vaca e o Frango•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54614.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Aladdin•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54613.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] American Dad•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54599.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] As Meninas Superpoderosas•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54601.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Ben 10•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54602.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Beyblade•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54603.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Bob Esponja•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54615.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Bob Zoom •
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54639.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Cascão Maratona²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54640.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Castelo Rá-Tim-Bum•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54384.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Cavaleiros do Zodiaco²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54641.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Caverna do Dragão•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54616.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Chaves em Desenho Animado•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54617.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Chaves²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54414.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Detona Ralph•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54605.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Dora,[B][COLOR yellow][B]Super TV[/B][/COLOR]  a Aventureira•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54619.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Doug•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54620.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Formiga Atômica•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54622.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Fusão - Dragon Ball•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54621.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Galinha Pintadinha •
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54643.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Galinha Pintadinha²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54449.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Gasparzinho•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54623.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Hantaro•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54624.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Homem de Ferro•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54607.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Jackie Chan•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54600.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Jambo e Ruivão•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54625.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Johnny Bravo•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54381.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] João Grandão•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54626.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Ladybug•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54627.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Ligeirinho•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54608.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Lilo & Stitch•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54609.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Luluzinha •
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54644.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Magilla Gorilla•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54629.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Marcelino Pão e Vinho•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54630.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Masha e o Urso•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54579.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Naruto•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54631.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] O Máskara•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54632.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] O Novo Testamento
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/86435.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] O Poderoso Chefinho•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54610.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Os Cavaleiros do Zodíaco•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54604.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Os Flintstones•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54634.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Os Jetsons•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54542.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Os Padrinhos Mágicos•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54635.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Os Três Mosqueteiros•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54633.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Pernalonga•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54612.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Popeye•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54558.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Scooby-Doo•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54645.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Super Choque•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54598.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Tico e Teco •
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54547.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Timão e Pumba•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/54549.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Denis o Pimentinha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/38367.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Liga da Justica
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/38447.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Pica-Pau
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/38410.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Pink e Cérebro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/38411.m3u8
-#EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] [24H] Pokemon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/38412.m3u8
+
 #EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] PolishopTV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/91798.m3u8
 #EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] Shoptime - SD
@@ -1247,3 +1224,527 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsr
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/103842.m3u8
 #EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] TV Conmebol 4 - HD²
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/103843.m3u8
+#EXTINF:-1,AMC SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132371
+#EXTINF:-1,ANIMAL PLANET SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132440
+#EXTINF:-1,Arte 1 FULLHD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132139
+#EXTINF:-1,ARTE 1 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132372
+#EXTINF:-1,AXN SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132373
+#EXTINF:-1,BABY TV SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132424
+#EXTINF:-1,BAND NEWS SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132473
+#EXTINF:-1,BAND SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132362
+#EXTINF:-1,BAND SPORTS SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132402
+#EXTINF:-1,BIS SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132455
+#EXTINF:-1,BLOOMBERG USA *
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/95847
+#EXTINF:-1,BOOMERANG SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132425
+#EXTINF:-1,BOTAFOGO TV 01 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138147
+#EXTINF:-1,BOTAFOGO TV 02 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138149
+#EXTINF:-1,CAMPEONATO MINEIRO 01 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138139
+#EXTINF:-1,CAMPEONATO MINEIRO 02 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138141
+#EXTINF:-1,CANAL 29 SERIES ANTIGAS
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/75389
+#EXTINF:-1,CANAL BRASIL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132343
+#EXTINF:-1,CANAL DO BOI
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/111091
+#EXTINF:-1,CANCAO NOVA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/42474
+#EXTINF:-1,CARIOCÃO
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138066
+#EXTINF:-1,CARIOCÃO 2
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138068
+#EXTINF:-1,CARTOON NETWORK SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132426
+#EXTINF:-1,CINEMAX SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132374
+#EXTINF:-1,CNN BRASIL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132477
+#EXTINF:-1,COMBATE SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132403
+#EXTINF:-1,COMEDY CENTRAL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132454
+#EXTINF:-1,CONMEBOL 1
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138073
+#EXTINF:-1,CONMEBOL 2
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138075
+#EXTINF:-1,CONMEBOL 3
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138077
+#EXTINF:-1,CONMEBOL 4
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138079
+#EXTINF:-1,COPA CATARINENSE
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138081
+#EXTINF:-1,COPA CATARINENSE 2
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138082
+#EXTINF:-1,COPA CATARINENSE 3
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138084
+#EXTINF:-1,COPA CATARINENSE 4
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138085
+#EXTINF:-1,COPA DO NORDESTE
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138089
+#EXTINF:-1,COPA DO NORDESTE 2
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138090
+#EXTINF:-1,COPA DO NORDESTE 3
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138092
+#EXTINF:-1,DAZN²
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138099
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132441
+#EXTINF:-1,DISCOVERY H&H SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132442
+#EXTINF:-1,DISCOVERY KIDS SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132427
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132450
+#EXTINF:-1,DISCOVERY THEATER SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132451
+#EXTINF:-1,DISCOVERY TURBO SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132443
+#EXTINF:-1,DISCOVERY WORLD SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132452
+#EXTINF:-1,DISNEY CHANNEL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132428
+#EXTINF:-1,DISNEY JR SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132429
+#EXTINF:-1,DISNEY XD SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132430
+#EXTINF:-1,E! SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132453
+#EXTINF:-1,ELEVEN SPORTS 1
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132512
+#EXTINF:-1,ELEVEN SPORTS 2
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132513
+#EXTINF:-1,ELEVEN SPORTS 3
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132514
+#EXTINF:-1,ESPN 2 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132422
+#EXTINF:-1,ESPN BRASIL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132404
+#EXTINF:-1,ESPN EXTRA SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132405
+#EXTINF:-1,ESPN SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132406
+#EXTINF:-1,FISH TV SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132407
+#EXTINF:-1,FLATV 01 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138070
+#EXTINF:-1,FLATV 02 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138072
+#EXTINF:-1,FOOD NETWORK SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132456
+#EXTINF:-1,FOX SPORTS 2 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132408
+#EXTINF:-1,FOX SPORTS SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132409
+#EXTINF:-1,FX SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132376
+#EXTINF:-1,GLOBINHO SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132432
+#EXTINF:-1,GLOBO EPTV CAMPINAS²
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133573
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/124282
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133574
+#EXTINF:-1,GLOBO EPTV SAO CARLOS
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133575
+#EXTINF:-1,GLOBO FLORIANOPOLIS
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133577
+#EXTINF:-1,GLOBO INTER TV CABUGI
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/124577
+#EXTINF:-1,GLOBO INTER TV CABUGI²
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133581
+#EXTINF:-1,GLOBO MINAS²
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133589
+#EXTINF:-1,GLOBO NEWS
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133592
+#EXTINF:-1,GLOBO NEWS SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132474
+#EXTINF:-1,GLOBO NORDESTE
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133597
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE²
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133606
+#EXTINF:-1,GLOBO REDE AMAZONICA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133612
+#EXTINF:-1,GLOBO RIO
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133614
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133616
+#EXTINF:-1,GLOBO RPC TV CURITIBA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133624
+#EXTINF:-1,GLOBO SJRP
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133626
+#EXTINF:-1,GLOBO SP
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133627
+#EXTINF:-1,GLOBO SP²
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133630
+#EXTINF:-1,GLOBO SÃO JOSÉ DO RIO PRETO
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/124283
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133631
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA²
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133634
+#EXTINF:-1,GLOBO TV BAHIA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133636
+#EXTINF:-1,GLOBO TV LIBERAL BELEM
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133645
+#EXTINF:-1,GLOBO TV RIO SUL
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133647
+#EXTINF:-1,GLOBO TV TEM BAURU
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133651
+#EXTINF:-1,GLOBO TV TEM SOROCABA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133652
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/128316
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133653
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133654
+#EXTINF:-1,GLOOB SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132431
+#EXTINF:-1,GNT SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132458
+#EXTINF:-1,GOLF CHANNEL
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132526
+#EXTINF:-1,GOSPEL CARTOON
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98311
+#EXTINF:-1,GOSPEL MOVIE
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/144816
+#EXTINF:-1,GOSPEL MOVIE TV
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/67337
+#EXTINF:-1,H2 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132444
+#EXTINF:-1,HBO
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/115163
+#EXTINF:-1,HBO 2 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132377
+#EXTINF:-1,HBO EXTREME SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132381
+#EXTINF:-1,HBO FAMILY SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132378
+#EXTINF:-1,HBO MUNDI SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132401
+#EXTINF:-1,HBO PLUS SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132379
+#EXTINF:-1,HBO POP SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132382
+#EXTINF:-1,HBO SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132399
+#EXTINF:-1,HBO SIGNATURE SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132380
+#EXTINF:-1,HGTV SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132449
+#EXTINF:-1,HISTORY SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132445
+#EXTINF:-1,ID DISCOVERY SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132446
+#EXTINF:-1,KURIAKOS KIDS
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/75387
+#EXTINF:-1,LIFETIME SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132459
+#EXTINF:-1,LIGA FUTSAL 2 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138103
+#EXTINF:-1,LIGA FUTSAL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138101
+#EXTINF:-1,LOADING TV
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/109710
+#EXTINF:-1,MAIS GLOBOSAT
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/100770
+#EXTINF:-1,MAIS GLOBOSAT SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132460
+#EXTINF:-1,MEGAPIX SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132383
+#EXTINF:-1,MLB NETWORK
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132509
+#EXTINF:-1,MTV SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132461
+#EXTINF:-1,MULTISHOW SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132462
+#EXTINF:-1,MUSIC BOX BRASIL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132469
+#EXTINF:-1,NATGEO KIDS SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132433
+#EXTINF:-1,NATGEO SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132447
+#EXTINF:-1,NATGEO WILD SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132448
+#EXTINF:-1,NBA TV
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132516
+#EXTINF:-1,NICK JR SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132434
+#EXTINF:-1,NICK SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132439
+#EXTINF:-1,NICKELODEON SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132435
+#EXTINF:-1,NOVA CINEMA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/144818
+#EXTINF:-1,NOVO TEMPO
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/39863
+#EXTINF:-1,NOVO TEMPO SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132472
+#EXTINF:-1,OFF SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132420
+#EXTINF:-1,PARAMOUNT SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132384
+#EXTINF:-1,PREMIERE CLUBES
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/58396
+#EXTINF:-1,PREMIERE CLUBES SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132416
+#EXTINF:-1,PREMIERE 2 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132410
+#EXTINF:-1,PREMIERE 3 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132411
+#EXTINF:-1,PREMIERE 4 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132412
+#EXTINF:-1,PREMIERE 5 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132413
+#EXTINF:-1,PREMIERE 6 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132414
+#EXTINF:-1,PREMIERE 7 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132415
+#EXTINF:-1,PRIME BOX BRASIL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132463
+#EXTINF:-1,RECORD BA SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132364
+#EXTINF:-1,RECORD BELEM
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133346
+#EXTINF:-1,RECORD BRASILIA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133347
+#EXTINF:-1,RECORD DF SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132365
+#EXTINF:-1,RECORD GOIAS
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133348
+#EXTINF:-1,RECORD ITAPOAN - BAHIA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/136192
+#EXTINF:-1,RECORD NEWS SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132475
+#EXTINF:-1,RECORD RJ SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132367
+#EXTINF:-1,RECORD SP SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132368
+#EXTINF:-1,RECORD¹
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/133342
+#EXTINF:-1,RED BULL TV
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132515
+#EXTINF:-1,REDE BRASIL
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132349
+#EXTINF:-1,REDE BRASIL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132346
+#EXTINF:-1,REDE TV RS TV PAMPA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98285
+#EXTINF:-1,REDE TV SUL1
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/111098
+#EXTINF:-1,REDE VIDA 
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/39866
+#EXTINF:-1,REDE VIDA SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132470
+#EXTINF:-1,SBT
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/42556
+#EXTINF:-1,SBT SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132363
+#EXTINF:-1,SHOPTIME HD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/120442
+#EXTINF:-1,SIC INTERNACIONAL²
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/136190
+#EXTINF:-1,SONY SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132385
+#EXTINF:-1,SPACE SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132386
+#EXTINF:-1,SPORT TV +
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132517
+#EXTINF:-1,SPORT TV 1
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132518
+#EXTINF:-1,SPORT TV 2
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132519
+#EXTINF:-1,SPORT TV 3
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132520
+#EXTINF:-1,SPORT TV 4
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132521
+#EXTINF:-1,SPORT TV 5
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132522
+#EXTINF:-1,SPORT TV NBA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132523
+#EXTINF:-1,SPORTING TV
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132524
+#EXTINF:-1,SPORTV 2 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132417
+#EXTINF:-1,SPORTV 3 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132418
+#EXTINF:-1,SPORTV SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132419
+#EXTINF:-1,STAR CHANNEL
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/136439
+#EXTINF:-1,STAR CHANNEL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132375
+#EXTINF:-1,STAR HITS 1 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/1324006
+#EXTINF:-1,STAR LIFE SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132457
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132387
+#EXTINF:-1,TBS SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132388
+#EXTINF:-1,TELECINE ACTION SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132389
+#EXTINF:-1,TELECINE CULT SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132390
+#EXTINF:-1,TELECINE FUN SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132391
+#EXTINF:-1,TELECINE PIPOCA SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132392
+#EXTINF:-1,TELECINE PREMIUM SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132393
+#EXTINF:-1,TELECINE TOUCH SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132394
+#EXTINF:-1,TLC SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132464
+#EXTINF:-1,TNT SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132395
+#EXTINF:-1,TNT SERIES SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132396
+#EXTINF:-1,TNT SPORTS
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138104
+#EXTINF:-1,TNT SPORTS 2
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138105
+#EXTINF:-1,TNT SPORTS 3
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138107
+#EXTINF:-1,TNT SPORTS 4 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138110
+#EXTINF:-1,TNT SPORTS 5 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138112
+#EXTINF:-1,TNT SPORTS 6 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138114
+#EXTINF:-1,TNT SPORTS 7 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138116
+#EXTINF:-1,TNT SPORTS 8 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138118
+#EXTINF:-1,TOONCAST SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132437
+#EXTINF:-1,TRAVEL BOX BRAZIL
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/58503
+#EXTINF:-1,TRUTV SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132465
+#EXTINF:-1,TV AGUA BOA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98290
+#EXTINF:-1,TV APARECIDA LIVRE
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/67335
+#EXTINF:-1,TV APARECIDA SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132471
+#EXTINF:-1,Tv Assembleia Ceara SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132356
+#EXTINF:-1,TV BRASIL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132344
+#EXTINF:-1,TV Caruaru PE
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132352
+#EXTINF:-1,TV CULTURA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98296
+#EXTINF:-1,TV CULTURA SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132345
+#EXTINF:-1,TV DIGITAL BIRIGUI
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98302
+#EXTINF:-1,TV EParana (Cultura PR)
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132351
+#EXTINF:-1,TV EVAGILIZAR ES 
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/39906
+#EXTINF:-1,TV EVANGELIZAR
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98305
+#EXTINF:-1,TV GAZETA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98304
+#EXTINF:-1,TV GAZETA NORTE MINEIRA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98317
+#EXTINF:-1,TV GOSPEL CEARÁ
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/128756
+#EXTINF:-1,TV Guarulhos SP
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132355
+#EXTINF:-1,TV INFOR BAHIA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98312
+#EXTINF:-1,Tv Itapetininga
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/47915
+#EXTINF:-1,TV JAPI
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98289
+#EXTINF:-1,TV JORNAL DO NORDESTE
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98315
+#EXTINF:-1,TV JUSTIÇA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/131568
+#EXTINF:-1,TV LIBERDADE 2
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98320
+#EXTINF:-1,TV LIBERDADE ONLINE
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98319
+#EXTINF:-1,TV MANCHETE
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/75388
+#EXTINF:-1,TV MONTANHA BRANCA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/127101
+#EXTINF:-1,TV NATAL
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98287
+#EXTINF:-1,TV NOVA ONDA
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98297
+#EXTINF:-1,TV RA TIM BUM SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132436
+#EXTINF:-1,TV RIO DOCE SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132358
+#EXTINF:-1,TV SERIES(Anos 60,70,80e90)
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98316
+#EXTINF:-1,TV SERRA VERDE
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98307
+#EXTINF:-1,TV SERTÃO
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/128757
+#EXTINF:-1,TVSÉRIES
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/144819
+#EXTINF:-1,TV UNIÃO DE NATAL
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98321
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132397
+#EXTINF:-1,VASCO TV 01 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138135
+#EXTINF:-1,VASCO TV 02 SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/138137
+#EXTINF:-1,VH1 MEGAHITS SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132468
+#EXTINF:-1,VINTAGE MOVIES
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/144820
+#EXTINF:-1,VIVA SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132466
+#EXTINF:-1,WARNER CHANNEL SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132398
+#EXTINF:-1,WEB TV PROGRESSO
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/98298
+#EXTINF:-1,WOOHOO SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132421
+#EXTINF:-1,ZOOMOO SD
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132438
+#EXTINF:-1, CBTV Now
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/67334
+#EXTINF:-1,3ABN KIDS
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/96645
+#EXTINF:-1,ABU DHABI SPORTS 01
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132500
+#EXTINF:-1,ABU DHABI SPORTS 02
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132501
+#EXTINF:-1,ABU DHABI SPORTS 03
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132502
+#EXTINF:-1,ABU DHABI SPORTS 04
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132503
+#EXTINF:-1,AL KASS SPORTS 01
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132504
+#EXTINF:-1,AL KASS SPORTS 02
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132505
+#EXTINF:-1,AL KASS SPORTS 03
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132506
+#EXTINF:-1,AL KASS SPORTS 04
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132507
+#EXTINF:-1,AL KASS SPORTS 05
+http://tu22.frtsaopaulo.tech:80/ander2021/2021ander/132508
