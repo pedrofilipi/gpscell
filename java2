@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,SUPERTV
-127.0.0.1
+#EXTINF:-1 ,[COLOR yellow][B]SUPER [/B][/COLOR][COLOR red][B]TV!!![/B][/COLOR]
+127.0.0.1/15/02/
 #EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] Cine Terror 01 - HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SuperTV;url=http://xsrv.me:8080/live/welington123/123welington/93434.m3u8
 #EXTINF:-1,[B][COLOR yellow][B]Super TV[/B][/COLOR] FOX - SPORTS HD¹
