@@ -43,7 +43,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pedrofilipi/gpscell/master/javafilm1</externallink>
-<genre>[COLOR  red][B]FILMES SERVIDOR 1[/B][/COLOR]</genre>
+<genre>[COLOR  red][B]TESTE[/B][/COLOR]</genre>
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
