@@ -1,0 +1,291 @@
+#EXTM3U
+#EXTINF:-1 ,[COLOR yellow][B]SUPER [/B][/COLOR][COLOR red][B]TV!!![/B][/COLOR]
+127.0.0.1/15/02/
+#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG THEORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/828px-TBBT_logo.svg.png" group-title="CANAIS: DESENHOS 24HS",THE BIG BANG THEORY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f744e4566e9a28722b080de69d866117.png" group-title="CANAIS: DESENHOS 24HS",Tom & Jerry
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3 ESPIÃS DEMAIS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6ba2d2b3be6f6d3e11e124689cd6eeda.png" group-title="CANAIS: DESENHOS 24HS",3 ESPIÃS DEMAIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://51.222.46.117:80/images/d29e01bdf86931eee9dde4aad25d1940.png" group-title="CANAIS: DESENHOS 24HS",3 PALAVRINHAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO ZÉ COLMÉIA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d66b0807811d337f160c70e097fac514.png" group-title="CANAIS: DESENHOS 24HS",A TURMA DO ZÉ COLMÉIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR-DE-ROSA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d3b3f9870ecfbaab197d185e3dffcbf3.png" group-title="CANAIS: DESENHOS 24HS",A PANTERA COR-DE-ROSA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1b224e130823455abb643cf883670136.png" group-title="CANAIS: DESENHOS 24HS",A PEQUENA SEREIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e3cd80584c24e0d13b92c3aefe23cc9e.png" group-title="CANAIS: DESENHOS 24HS",A PEQUENA SEREIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO MANDA CHUVA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0ec7cb71407c1f3658fd4e5d68e1e338.png" group-title="CANAIS: DESENHOS 24HS",A TURMA DO MANDA CHUVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A VACA E O FRANGO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/84ef4c6bd83ecbf8af993f267253d4c6.png" group-title="CANAIS: DESENHOS 24HS",A VACA E O FRANGO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1833c616f990bfac10d5d974dde4aeca.png" group-title="CANAIS: DESENHOS 24HS",ALADDIN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALF, O ETEIMOSO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2524d198575514a830d822df724956ab.png" group-title="CANAIS: DESENHOS 24HS",ALF, O ETEIMOSO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMANIACS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2fc2cd454b298b9dd75ec51d96f5b240.png" group-title="CANAIS: DESENHOS 24HS",ANIMANIACS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7694fe663ca6088d31b1c5d4c41241d6.png" group-title="CANAIS: DESENHOS 24HS",AS AVENTURAS DE JACKIE CHAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4db0898370772dca680985d491b62ab5.png" group-title="CANAIS: DESENHOS 24HS",AS AVENTURAS DE JACKIE CHAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TINTIM" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CANAIS: DESENHOS 24HS",AS AVENTURAS DE TINTIM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AS MENINAS SUPERPODEROSAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0a4c421bf2c440dad9d22ef167b84144.png" group-title="CANAIS: DESENHOS 24HS",AS MENINAS SUPERPODEROSAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AS TARTARUGAS NINJAS" tvg-logo="http://51.222.46.117:80/images/92eb5ffee6ae2fec3ad71c777531578f.png" group-title="CANAIS: DESENHOS 24HS",AS TARTARUGAS NINJAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed12c257767a00883d0dbd28760ee52b.png" group-title="CANAIS: DESENHOS 24HS",BABY LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed12c257767a00883d0dbd28760ee52b.png" group-title="CANAIS: DESENHOS 24HS",BABY LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN - SÉRIE ANIMADA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2b1b4086ebb6b4792ecb6b7d7069b669.png" group-title="CANAIS: DESENHOS 24HS",BATMAN - SÉRIE ANIMADA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://xcui.vitvabc.xyz:8880/images/891a36d72ddc473d7b3ffd60ccbe5feb.png" group-title="CANAIS: DESENHOS 24HS",BEN 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 (2005)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/891a36d72ddc473d7b3ffd60ccbe5feb.png" group-title="CANAIS: DESENHOS 24HS",BEN 10 (2005)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 OMNIVERSE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/743ef1919b055d34e6853441bfbb0539.png" group-title="CANAIS: DESENHOS 24HS",BEN 10 OMNIVERSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIBO PAI E BOBI FILHO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c51ce410c124a10e0db5e4b97fc2af39.png" group-title="CANAIS: DESENHOS 24HS",BIBO PAI E BOBI FILHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BANANAS DE PIJAMAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aeae9c93435441532b491274bec4ac0d.png" group-title="CANAIS: DESENHOS 24HS",BANANAS DE PIJAMAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS THUNDERMANS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/acdade66e20643aec134735e88515b6f.png" group-title="CANAIS: DESENHOS 24HS",OS THUNDERMANS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLACK KAMEN RIDER" tvg-logo="http://xcui.vitvabc.xyz:8880/images/743494af01eea667e0abfa5d5953454e.png" group-title="CANAIS: DESENHOS 24HS",BLACK KAMEN RIDER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/80176ad2631747fe693d79962c1b125c.png" group-title="CANAIS: DESENHOS 24HS",BOB ESPONJA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOB ZOOM" tvg-logo="http://51.222.46.117:80/images/69d8642942fde75978bf8d13941beb33.png" group-title="CANAIS: DESENHOS 24HS",BOB ZOOM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AS MENINAS SUPER PODEROSAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4250d382c26189c8daeb6b82e4d62168.jpg" group-title="CANAIS: DESENHOS 24HS",AS MENINAS SUPER PODEROSAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BREAKING BAD ¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1806c6bb3f965fea97d25f3320d86c96.png" group-title="CANAIS: DESENHOS 24HS",BREAKING BAD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LULUZINHA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8105e79955380bfa43fa8b26d9d93c9c.jpg" group-title="CANAIS: DESENHOS 24HS",LULUZINHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARANGOS E MOTOCAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6c9a9d750f55b34fb8d64300e50da0e1.png" group-title="CANAIS: DESENHOS 24HS",CARANGOS E MOTOCAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO MICKEY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/48bc7a304d9b07944676a40d287cfc89.png" group-title="CANAIS: DESENHOS 24HS",CASA DO MICKEY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3efa1550342fbbedee17d4935d43d0e2.png" group-title="CANAIS: DESENHOS 24HS",SCOOBY DOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: DESENHOS 24HS",CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA DE ASGARD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: DESENHOS 24HS",CAVALEIROS DO ZODÍACO - SAGA DE ASGARD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA DE HADES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: DESENHOS 24HS",CAVALEIROS DO ZODÍACO - SAGA DE HADES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: DESENHOS 24HS",CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="CANAIS: DESENHOS 24HS",CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/254e05c746c7ac24b0b66be67739d74c.png" group-title="CANAIS: DESENHOS 24HS",CAVALO DE FOGO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO" tvg-logo="http://51.222.46.117:80/images/5937bd9505234b866fa7e40b3cc52d63.png" group-title="CANAIS: DESENHOS 24HS",CAVERNA DO DRAGÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b5bf77c52a20f81917e9e7d31693a24a.png" group-title="CANAIS: DESENHOS 24HS",CHAPOLIN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/11fa22bd9c5aa4a0e7f769edb69122d4.png" group-title="CANAIS: DESENHOS 24HS",CHAVES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/192cac41ceec2363f2afc18724147cc7.png" group-title="CANAIS: DESENHOS 24HS",CHAVES DESENHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Mágicos" tvg-logo="https://e7.pngegg.com/pngimages/637/575/png-clipart-nickelodeon-cosmo-and-wanda-cosma-cartoon-drawing-others-nickelodeon-cosmo-thumbnail.png" group-title="CANAIS: DESENHOS 24HS",Os Padrinhos Mágicos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMÉDIA SELVAGEM" tvg-logo="http://xcui.vitvabc.xyz:8880/images/62dfe069c44d5ef285458c75d0534a1a.png" group-title="CANAIS: DESENHOS 24HS",COMÉDIA SELVAGEM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CORAGEM CAO COVARDE" tvg-logo="http://51.222.46.117:80/images/b040df6b4facc3c57e6526ae7104fc75.png" group-title="CANAIS: DESENHOS 24HS",CORAGEM CAO COVARDE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE VOLTA PARA O FUTURO" tvg-logo="https://storage.googleapis.com/makestories-202705.appspot.com/ffl7lHjirxRYJVyxQBpUO3aHKc32/unnamed.png" group-title="CANAIS: DESENHOS 24HS",DE VOLTA PARA O FUTURO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BORUTO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/68b4a68e04ac60453fc06e1fda1bb983.png" group-title="CANAIS: DESENHOS 24HS",BORUTO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS BÍBLICOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b5e724c2f22e8dca4f5b67b4e2ae5c57.png" group-title="CANAIS: DESENHOS 24HS",DESENHOS BÍBLICOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5608df94701fcf43bc0f55de64ac4326.png" group-title="CANAIS: DESENHOS 24HS",DOIS HOMENS E MEIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÍTIO DO PICA-PAU AMARELO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b10c67473cf59f0d13a991d46ffed522.jpg" group-title="CANAIS: DESENHOS 24HS",SÍTIO DO PICA-PAU AMARELO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL - SAGA MAJIN BOO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/195154fd41a3625041e4bff57761a7b2.png" group-title="CANAIS: DESENHOS 24HS",DRAGON BALL - SAGA MAJIN BOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL GT" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3e427e06877e9d2df08f203027c8b722.png" group-title="CANAIS: DESENHOS 24HS",DRAGON BALL GT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/26cca5a1482c0cc34e6e6ac65bc646f5.png" group-title="CANAIS: DESENHOS 24HS",DRAGON BALL SUPER¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/46627f6bbb4b3b8a1bbfe4b324548fc3.png" group-title="CANAIS: DESENHOS 24HS",DRAGON BALL²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE E JOSH" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4257b5c849c9f8ea85e794dbbcab19be.png" group-title="CANAIS: DESENHOS 24HS",DRAKE E JOSH
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DUCK DODGERS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6b74d90ec36bef28643586cb07d4b5c9.png" group-title="CANAIS: DESENHOS 24HS",DUCK DODGERS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DUCKTALES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2271962e164f363621ae4e1d66f81509.png" group-title="CANAIS: DESENHOS 24HS",DUCKTALES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPECIAL BABY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b03ae52d39e0d0c8c9bb5260886138d5.png" group-title="CANAIS: DESENHOS 24HS",ESPECIAL BABY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7be0608c789f637684843ebe9eea3827.png" group-title="CANAIS: DESENHOS 24HS",EU A PATROA E AS CRIANÇAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EU SOU O MÁXIMO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/47dfca17be4cefdef16507bccdd3da51.png" group-title="CANAIS: DESENHOS 24HS",EU SOU O MÁXIMO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FALCÃO AZUL E BIONICÃO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/82d12dd595f11fc4b5c576ba77a1506b.png" group-title="CANAIS: DESENHOS 24HS",FALCÃO AZUL E BIONICÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FAMILÍA DINOSSAUROS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/77ad242b4a8fac61d8d139884d600a19.png" group-title="CANAIS: DESENHOS 24HS",FAMILÍA DINOSSAUROS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FAMÍLIA DINOSSAUROS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f3f01a26b79a078ceec02f4046e010cd.png" group-title="CANAIS: DESENHOS 24HS",FAMÍLIA DINOSSAUROS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATOMICA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/efb7df84b834388abefb2f889f65718f.png" group-title="CANAIS: DESENHOS 24HS",FORMIGA ATOMICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8f3f98b7db460596a171f9300bd75a79.png" group-title="CANAIS: DESENHOS 24HS",FUTURAMA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1a69ebfe15557fe66a7bad2eb25bbe4e.png" group-title="CANAIS: DESENHOS 24HS",GALINHA PINTADINHA¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GARFIELD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4f9954f43d09c7cf43eda125ab2c2fac.png" group-title="CANAIS: DESENHOS 24HS",GARFIELD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8709d9cbe5fab7eb90889fcbcc151dc3.jpg" group-title="CANAIS: DESENHOS 24HS",KIDS TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GATO FELIX" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f2ce289a9d6c2af314afbafc05fc0892.png" group-title="CANAIS: DESENHOS 24HS",GATO FELIX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN - WOLVERINE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/62d8b981dd1b15088c49b700496e01d1.jpg" group-title="CANAIS: DESENHOS 24HS",X-MEN - WOLVERINE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ae31fadbd0807063cb5d6f6fa03dd7e9.png" group-title="CANAIS: DESENHOS 24HS",HE-MAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY MOUSE, PATO DONALD E TICO E TECO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9bf31c7ff062936a96d3c8bd1f8f2ff3.png" group-title="CANAIS: DESENHOS 24HS",MICKEY MOUSE, PATO DONALD E TICO E TECO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICARLY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cea75a97186309c6d7ab71f8ac7c2a6e.png" group-title="CANAIS: DESENHOS 24HS",ICARLY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRMÃO DE JOREL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/21a6e7482d0b4a7801ba6ecd73764f15.png" group-title="CANAIS: DESENHOS 24HS",IRMÃO DE JOREL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JIRAIYA - O INCRÍVEL NINJA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/07aeb18febbdbf77511a10fd4aa49942.png" group-title="CANAIS: DESENHOS 24HS",JIRAIYA - O INCRÍVEL NINJA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOHNNY BRAVO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/43357e33895f3b1b49a26763553e7468.png" group-title="CANAIS: DESENHOS 24HS",JOHNNY BRAVO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOHNNY TEST" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5e437c2fee7eb35f531e33d32d471795.png" group-title="CANAIS: DESENHOS 24HS",JOHNNY TEST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON GOSPEL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/dbe85364ea51ae6a8da6a886a2664bd6.png" group-title="CANAIS: DESENHOS 24HS",CARTOON GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8293eeedcd104b8a3f6dbe9c584d55e9.png" group-title="CANAIS: DESENHOS 24HS",POKEMON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LEÃO DA MONTANHA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/00b7d8a190690e5350fea53401521e2e.png" group-title="CANAIS: DESENHOS 24HS",LEÃO DA MONTANHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3010c10208435d4edfb16a8239e58f04.png" group-title="CANAIS: DESENHOS 24HS",LIGA DA JUSTIÇA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4d81f98db5fb9d9a6022e6f10f5dc38.png" group-title="CANAIS: DESENHOS 24HS",LIGA DA JUSTIÇA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DOS SUPER MALVADOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87862476010fb57c9e91fe65ed422b12.png" group-title="CANAIS: DESENHOS 24HS",LIGA DOS SUPER MALVADOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGEIRINHO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ac0befbeafc43e916fdd075024c45244.png" group-title="CANAIS: DESENHOS 24HS",LIGEIRINHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/85efe2bad551cde78e8bdaf1ca4ece5f.png" group-title="CANAIS: DESENHOS 24HS",LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="http://51.222.46.117:80/images/84b082dc612d8ad6dfc36b8816411097.png" group-title="CANAIS: DESENHOS 24HS",LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIBO PAI, BOB FILHO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5eaa45a7370b49fa273a352c1add0c46.PNG" group-title="CANAIS: DESENHOS 24HS",BIBO PAI, BOB FILHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARINHEIRO POPEYE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e064d6137d88c71f0785608e7c4bb2dc.png" group-title="CANAIS: DESENHOS 24HS",MARINHEIRO POPEYE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO" tvg-logo="http://51.222.46.117:80/images/a110f681be78953084a356d784f45452.png" group-title="CANAIS: DESENHOS 24HS",MASHA E O URSO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MASTERCHEF" tvg-logo="http://xcui.vitvabc.xyz:8880/images/01dd2d6487782214f84e995bc179a60d.png" group-title="CANAIS: DESENHOS 24HS",MASTERCHEF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOSQUITO, MOSQUETE e MOSCARDO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a1c617cf20b980d0ed0ba15ec7e14f38.png" group-title="CANAIS: DESENHOS 24HS",MOSQUITO, MOSQUETE e MOSCARDO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO BITA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6f656f65efaf5a9ed2ba9d73cba5b6dc.png" group-title="CANAIS: DESENHOS 24HS",MUNDO BITA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/06eac531a0f0352f59c2c0d3fce040e2.png" group-title="CANAIS: DESENHOS 24HS",NARUTO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO SHIPPUDEN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/557f848b16d68013d3f01e7ef7687ec5.png" group-title="CANAIS: DESENHOS 24HS",NARUTO SHIPPUDEN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O FANTASTICO MUNDO DE BOBBY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7d0665438e81d8eceb98c1e31fca80c1.png" group-title="CANAIS: DESENHOS 24HS",O FANTASTICO MUNDO DE BOBBY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1b4ab133f91ccf9dffff2e2b45703545.png" group-title="CANAIS: DESENHOS 24HS",O INCRÍVEL MUNDO DE GUMBALL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O MUNDO DE BITA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5b98651412bff736ad74c0a35fd3e4fb.png" group-title="CANAIS: DESENHOS 24HS",O MUNDO DE BITA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAKURA CARDS CAPTORS - ANIME" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aa103150e3f99ccc292caf9b0b9f84b8.png" group-title="CANAIS: DESENHOS 24HS",SAKURA CARDS CAPTORS - ANIME
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS CAÇA FANTASMAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/15569d95c92418350ff4e0a5b02e8350.png" group-title="CANAIS: DESENHOS 24HS",OS CAÇA FANTASMAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/047c59e28b12162c93cade219f3273ae.png" group-title="CANAIS: DESENHOS 24HS",OS FLINTSTONES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bdd93936e13ac160f6cbcca56402e5b5.png" group-title="CANAIS: DESENHOS 24HS",OS FLINTSTONES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS HERCULÓIDES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="CANAIS: DESENHOS 24HS",OS HERCULÓIDES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS JETSONS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/24c2a482d3afb3f1f999eb7ef80be1b7.png" group-title="CANAIS: DESENHOS 24HS",OS JETSONS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS JETSONS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2e0ff4e0336eb5cb80821cbcb9e5d4c4.png" group-title="CANAIS: DESENHOS 24HS",OS JETSONS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS JOVENS TITÃS EM AÇÃO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="CANAIS: DESENHOS 24HS",OS JOVENS TITÃS EM AÇÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/880ae00a2a23f53367df3988a2da6fe8.png" group-title="CANAIS: DESENHOS 24HS",OS SIMPSONS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS SMURFS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/edb19479cf3a345fee911161d15a239e.png" group-title="CANAIS: DESENHOS 24HS",OS SMURFS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN EVOLUTION" tvg-logo="http://xcui.vitvabc.xyz:8880/images/19790367f6d67a3ece28dca0da2f4d8c.png" group-title="CANAIS: DESENHOS 24HS",X-MEN EVOLUTION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PADRINHOS MÁGICOS" tvg-logo="http://51.222.46.117:80/images/404c99bbda4d1374fadbdcb875519d3f.png" group-title="CANAIS: DESENHOS 24HS",PADRINHOS MÁGICOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAPA-LÉGUAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e00130d0f82663b45a99b4bb394aee0d.png" group-title="CANAIS: DESENHOS 24HS",PAPA-LÉGUAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA 24H" tvg-logo="http://xcui.vitvabc.xyz:8880/images/69addbc18c14ec75f0a18aa8011f4ae3.png" group-title="CANAIS: DESENHOS 24HS",PATRULHA CANINA 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="http://51.222.46.117:80/images/daa730c1eb59c94587e0f2e4b8ef33a6.png" group-title="CANAIS: DESENHOS 24HS",PEPPA PIG
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/40d71e919d1e9926c770485c9cac49a9.png" group-title="CANAIS: DESENHOS 24HS",A CASA DO MICKEY MOUSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PICA-PAU" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ee821da4f7746532e65df884baf943ba.png" group-title="CANAIS: DESENHOS 24HS",PICA-PAU
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK E O CÉREBRO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d10f3236f90c4c2f386c4666e1b74acd.png" group-title="CANAIS: DESENHOS 24HS",PINK E O CÉREBRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - ÔMEGA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1ab7e1b690989b5d9c0f4e152d65f4ec.jpg" group-title="CANAIS: DESENHOS 24HS",CAVALEIROS DO ZODÍACO - ÔMEGA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PODEROSO CHEFINHO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8441b8dd5bce2a90356795a6d2da4364.png" group-title="CANAIS: DESENHOS 24HS",PODEROSO CHEFINHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POPEYE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87243e8661f1052cb7eb4bf28a36b0d0.png" group-title="CANAIS: DESENHOS 24HS",POPEYE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS" tvg-logo="http://51.222.46.117:80/images/c2b931974cdc4dd161c379f017226ed9.png" group-title="CANAIS: DESENHOS 24HS",POWER RANGERS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO!" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b3f30f9066c7433a05f99e5cb7040fc0.png" group-title="CANAIS: DESENHOS 24HS",SCOOBY DOO!
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHE-RA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3b97bf8757c569a99d5ad2d8132fbc23.png" group-title="CANAIS: DESENHOS 24HS",SHE-RA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIGIMON" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6dff8967dfdc2e0be6133c0a8d50a932.png" group-title="CANAIS: DESENHOS 24HS",DIGIMON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5cafad622865c953ef43ebd7f03df760.png" group-title="CANAIS: DESENHOS 24HS",SOBRENATURAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPEED RACER 24H" tvg-logo="http://51.222.46.117:80/images/2340486e0d10abacb9008e2c3746d6e4.png" group-title="CANAIS: DESENHOS 24HS",SPEED RACER 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAND-UP" tvg-logo="http://xcui.vitvabc.xyz:8880/images/20c681c503c79ff2c43bc9bd5680bbed.png" group-title="CANAIS: DESENHOS 24HS",STAND-UP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STREET FIGTHER" tvg-logo="http://51.222.46.117:80/images/0bd31b0cda59de051da19a00510db7cf.png" group-title="CANAIS: DESENHOS 24HS",STREET FIGTHER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUPER AMIGOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7391acc5bb36b644ec5990e5482d0536.png" group-title="CANAIS: DESENHOS 24HS",SUPER AMIGOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHOQUE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0d43983afe444f15ca1d8121b12af608.png" group-title="CANAIS: DESENHOS 24HS",SUPER CHOQUE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d852742dbf6f254dce4267f58b4083a4.png" group-title="CANAIS: DESENHOS 24HS",THUNDERCATS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e6e328104ef8a6a9d8315d8725a654e0.png" group-title="CANAIS: DESENHOS 24HS",TODO MUNDO ODEIA O CHRIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOMA LA DA CÁ" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5b1c0e84f0ce9ddf1d51f676e2a60cd0.png" group-title="CANAIS: DESENHOS 24HS",TOMA LA DA CÁ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TURMA DO MANDA-CHUVA" tvg-logo="http://51.222.46.117:80/images/48a620e931a94bb27baf7cbf157511f2.png" group-title="CANAIS: DESENHOS 24HS",TURMA DO MANDA-CHUVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FÁBULAS DA DISNEY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/092d101c0e0fcea0deece1a0565016a4.png" group-title="CANAIS: DESENHOS 24HS",FÁBULAS DA DISNEY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1effbf1c22863c5e9203c1ad008f7a1d.png" group-title="CANAIS: DESENHOS 24HS",UM MALUCO NO PEDAÇO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URSINHOS CARINHOSOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/de68aee51dfe5b7ddcf42e2a340a06a1.png" group-title="CANAIS: DESENHOS 24HS",URSINHOS CARINHOSOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DO ESPAÇO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed246ccb9d890b144bd57180b8838f79.jpg" group-title="CANAIS: DESENHOS 24HS",PIRATAS DO ESPAÇO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VAI QUE COLA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39e5663108b87f87a79ebb5432b9849b.png" group-title="CANAIS: DESENHOS 24HS",VAI QUE COLA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X-MAN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/25dc76de6c416e9732864928e82c6fb7.png" group-title="CANAIS: DESENHOS 24HS",X-MAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN" tvg-logo="https://storage.googleapis.com/makestories-202705.appspot.com/ffl7lHjirxRYJVyxQBpUO3aHKc32/xmen-logo-png-5.png" group-title="CANAIS: DESENHOS 24HS",X-MEN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH" tvg-logo="http://xcui.vitvabc.xyz:8880/images/686d0d38f539979a8ce3c08b9f351d8e.png" group-title="CANAIS: DESENHOS 24HS",YU-GI-OH
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV;url=http://xcui.vitvabc.xyz:8880/live/287994003705/287994003705/31775.m3u8
