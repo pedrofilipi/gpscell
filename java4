@@ -1,540 +1,540 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71763
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71763
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] AgroMais
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71767
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71767
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71771
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71771
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71776
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71776
 #EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Arte 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71780
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71780
 #EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71784
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71784
 #EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] AXN [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90714
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90714
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Band BA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72620
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72620
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Band Maringa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71788
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71788
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Notícias",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Band News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71792
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71792
 #EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Band Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71804
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71804
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Band SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/79312
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/79312
 #EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[B][COLOR orange][B]SUPERtv[/B][/COLOR] BBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71805
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71805
 #EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] BIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71809
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71809
 #EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71810
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71810
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/boavontade.png" group-title="Canais | Religiosos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Boa Vontade TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71811
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71811
 #EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71815
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71815
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Campeonato Carioca 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/96516
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/96516
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Campeonato Carioca 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/96520
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/96520
 #EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Canal Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71819
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71819
 #EXTINF:-1 tvg-logo="http://a5.vc/bK3" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Canal do Boi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71822
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71822
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canalrural.png" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Canal Rural
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71823
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71823
 #EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Canal Sony
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71827
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71827
 #EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Canal Sony [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90711
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90711
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71832
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71832
 #EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Cinemax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71836
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71836
 #EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",[B][COLOR orange][B]SUPERtv[/B][/COLOR] CNN Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71840
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71840
 #EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",[B][COLOR orange][B]SUPERtv[/B][/COLOR] CNN International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71841
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71841
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Combate
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71846
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71846
 #EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71850
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71850
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Conmebol TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72980
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72980
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Conmebol TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72984
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72984
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Conmebol TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72988
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72988
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Conmebol TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72992
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72992
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Copa do Nordeste 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/96508
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/96508
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Copa do Nordeste 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/96512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/96512
 #EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Cultura
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71854
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71854
 #EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Curta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71858
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71858
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71866
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71866
 #EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Discovery H&H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71870
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71870
 #EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Discovery Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71874
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71874
 #EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71878
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71878
 #EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Discovery Theater
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71882
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71882
 #EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Discovery Turbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71886
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71886
 #EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Discovery World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71890
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71890
 #EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71894
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71894
 #EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71898
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71898
 #EXTINF:-1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71899
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71899
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Dog TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/104908
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/104908
 #EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[B][COLOR orange][B]SUPERtv[/B][/COLOR] DW (Deutsch+)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/104940
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/104940
 #EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71903
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71903
 #EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",[B][COLOR orange][B]SUPERtv[/B][/COLOR] ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71910
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71910
 #EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",[B][COLOR orange][B]SUPERtv[/B][/COLOR] ESPN Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71914
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71914
 #EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",[B][COLOR orange][B]SUPERtv[/B][/COLOR] ESPN Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71918
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71918
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",[B][COLOR orange][B]SUPERtv[/B][/COLOR] ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71923
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71923
 #EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Eurochannel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/104912
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/104912
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] FashionTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71927
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71927
 #EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Film&Arts
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/104916
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/104916
 #EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Fish TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71931
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71931
 #EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71935
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71935
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Fox Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71961
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71961
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71956
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71956
 #EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[B][COLOR orange][B]SUPERtv[/B][/COLOR] France 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/104941
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/104941
 #EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Futura
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71965
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71965
 #EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71969
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71969
 #EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] FX [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90708
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90708
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Brasilia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71975
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71975
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo EPTV Campinas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71978
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71978
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo EPTV Ribeirao Preto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72591
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72591
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo EPTV Sao Carlos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72592
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72592
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo EPTV Sul de Minas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71981
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71981
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Inter TV Alto Litoral
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71984
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71984
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Inter TV Cabugi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71987
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71987
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo InterTV Costa Branca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/93585
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/93585
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Inter TV dos Vales
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71990
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71990
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Inter TV Grande Minas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71993
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71993
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo InterTV Planicie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/93587
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/93587
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Inter TV Serra Mar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71996
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71996
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Minas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71972
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71972
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Notícias",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72000
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Nordeste
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72003
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72003
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo NSC TV Blumenau
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72006
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72006
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo NSC TV Chapeco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72009
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72009
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo NSC TV Florianopolis
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72012
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72012
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo NSC TV Joinville
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/91032
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/91032
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo RBS TV Caxias do Sul
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72015
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo RBS TV Pelotas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/100023
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/100023
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo RBS TV Porto Alegre
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72018
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Rede Amazonica Boa Vista
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/93589
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/93589
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Rede Amazonica Macapa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/93591
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/93591
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Rede Amazonica Manaus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72021
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72021
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Rede Amazonica Porto Velho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/93593
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/93593
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Rede Amazonica Rio Branco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/93595
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/93595
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo Rede Bahia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72024
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72024
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72027
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72027
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo RPC Paranavai
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72030
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72030
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo RPC TV Curitiba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72627
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72627
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo RPC TV Foz do Iguacu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72034
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72034
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo RPC TV Maringa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/96889
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/96889
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo RPC TV Ponta Grossa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72038
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72038
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72042
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72042
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Anhanguera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72045
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72045
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Asa Branca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/102556
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/102556
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Cabo Branco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72048
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72048
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Centro America
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72051
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72051
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Clube Teresina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72054
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72054
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Diario Mogi das Cruzes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/97597
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/97597
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Fronteira Presidente Prudente
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/97589
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/97589
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Fronteira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/93597
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/93597
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Gazeta Alagoas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72057
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72057
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Gazeta Sul
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72060
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72060
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Gazeta Vitoria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72063
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72063
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Integracao Araxa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72066
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72066
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Integracao Juiz de Fora
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72069
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72069
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Integracao Uberlandia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/93599
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/93599
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Liberal Belem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72072
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72072
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Mirante Cocais
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/93601
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/93601
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Mirante Imperatriz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/93603
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/93603
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Mirante Sao Luis
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72075
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72075
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Morena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72078
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72078
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Rio Sul
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72082
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72082
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Santa Cruz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72085
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72085
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Sergipe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72088
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72088
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Subae
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72091
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72091
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Sudoeste
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72094
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72094
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV TEM Bauru
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72616
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72616
 #EXTINF:-1 tvg-logo="" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV TEM Itapetininga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/91437
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/91437
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV TEM Sao Jose do Rio Preto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72622
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72622
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV TEM Sorocaba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72623
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72623
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Tribuna Santos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72596
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72596
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Vanguarda S.J dos Campos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72624
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72624
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Vanguarda Taubate
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/93606
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/93606
 #EXTINF:-1 tvg-logo="" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Verdes Mares Cariri
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/91442
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/91442
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Globo TV Verdes Mares
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72097
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72097
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Gloobinho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90628
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90628
 #EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Gloob
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72101
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72101
 #EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] GNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72105
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72105
 #EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] H2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72109
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72109
 #EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72113
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72113
 #EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO Family FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72115
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72115
 #EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72117
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72117
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO Mundi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72124
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72124
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO Mundi [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90693
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90693
 #EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72128
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72128
 #EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO Plus [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90690
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90690
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO Pop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72132
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72132
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO Pop [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90687
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90687
 #EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72133
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72133
 #EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90696
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90696
 #EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO Signature
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72137
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72137
 #EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO Signature [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90684
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90684
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO Xtreme
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72141
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72141
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HBO Xtreme [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90681
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90681
 #EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72145
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72145
 #EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72149
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72149
 #EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72153
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72153
 #EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Lifetime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72157
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72157
 #EXTINF:-1 tvg-logo="" group-title="Canais | PPV",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Liga Futsal 2021 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/73006
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/73006
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Like
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72161
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72161
 #EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Loading TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/89700
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/89700
 #EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Mais na Tela
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72165
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72165
 #EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Megapix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72170
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72170
 #EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Megapix [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90678
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90678
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Mega TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/104926
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/104926
 #EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] MTV Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72177
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72177
 #EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72178
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72178
 #EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Multishow
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72183
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72183
 #EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Music Box Brazil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72187
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72187
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Nat Geo Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72191
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72191
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72195
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72195
 #EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72200
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72200
 #EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[B][COLOR orange][B]SUPERtv[/B][/COLOR] NHK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/91990
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/91990
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72207
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72207
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72208
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72208
 #EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72204
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72204
 #EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] OFF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72212
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72212
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Pai Eterno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72215
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72215
 #EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72220
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72220
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Polishop TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/104927
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/104927
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Premiere Clubes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72266
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72266
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Premiere 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72240
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72240
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Premiere 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72244
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72244
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Premiere 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72248
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72248
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Premiere 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72252
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72252
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Premiere 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72256
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72256
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Premiere 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72260
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72260
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Premiere 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72261
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72261
 #EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Prime Box Brazil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72270
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72270
 #EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Record News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72273
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72273
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RecordTV Belem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/73262
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/73262
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RecordTV Brasilia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/96524
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/96524
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RecordTV GO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72279
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72279
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RecordTV Interior RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/102257
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/102257
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RecordTV Interior SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/102260
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/102260
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RecordTV Itapoan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72285
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72285
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RecordTV Litoral/Vale do Paraiba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/102263
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/102263
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RecordTV MG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/96525
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/96525
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RecordTV RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/96526
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/96526
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RecordTV RS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72975
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72975
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RecordTV Sao Jose do Rio Preto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/102266
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/102266
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RecordTV SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/96522
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/96522
 #EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Rede Gospel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/104931
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/104931
 #EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Rede Seculo 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/104928
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/104928
 #EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RedeTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72300
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72300
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Rede Vida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72296
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72296
 #EXTINF:-1 tvg-logo="http://a5.vc/4Ve" group-title="Canais | Religiosos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] RIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72301
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72301
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] SBT Rede Massa PR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72306
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72306
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] SBT SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/77964
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/77964
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Shoptime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72311
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72311
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sic.png" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] SIC Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72312
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72312
 #EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Smithsonian
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72316
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72316
 #EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Space
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72320
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72320
 #EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Space [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90675
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",[B][COLOR orange][B]SUPERtv[/B][/COLOR] SporTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72333
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72333
 #EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",[B][COLOR orange][B]SUPERtv[/B][/COLOR] SporTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72324
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72324
 #EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",[B][COLOR orange][B]SUPERtv[/B][/COLOR] SporTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72328
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72328
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Star Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71951
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71951
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Star Channel [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90705
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90705
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Star Hits 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71950
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71950
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Star Hits 2 [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90699
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90699
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Star Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71946
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71946
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Star Hits [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90702
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90702
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Star Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/71942
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/71942
 #EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Studio Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72337
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72337
 #EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] SyFy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72341
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72341
 #EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72345
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72345
 #EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TCM 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/73253
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/73253
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/telecineaction.png" group-title="Canais | Telecine",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Telecine Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72349
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72349
 #EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Telecine Action [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90666
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90666
 #EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Telecine Cult
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72353
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72353
 #EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Telecine Cult [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90663
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90663
 #EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Telecine Fun
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72357
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72357
 #EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Telecine Fun [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90660
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90660
 #EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Telecine Pipoca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72361
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72361
 #EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Telecine Pipoca [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90657
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90657
 #EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Telecine Premium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72365
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72365
 #EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Telecine Premium [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90654
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90654
 #EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Telecine Touch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72369
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72369
 #EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Telecine Touch [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90651
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90651
 #EXTINF:-1 tvg-logo="http://a5.vc/uYJ" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Terra Viva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72370
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72370
 #EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72374
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72374
 #EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72379
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72379
 #EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TNT [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90672
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90672
 #EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TNT Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72384
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72384
 #EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Legendados",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TNT Series [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/90669
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/90669
 #EXTINF:-1 tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Tooncast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72385
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72385
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Trace Brazuca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72389
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72389
 #EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Travel Box Brazil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72393
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72393
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Canais | Documentários",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TruTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/76670
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/76670
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV5 Monde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72418
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72418
 #EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Aparecida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72397
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72397
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Brasil 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72398
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72398
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72402
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72402
 #EXTINF:-1 tvg-logo="http://a5.vc/kpT" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Camara
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72403
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72403
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/cancaonova.png" group-title="Canais | Religiosos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Cancao Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72404
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72404
 #EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Cidade RecordTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/92669
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/92669
 #EXTINF:-1 tvg-logo="https://imgur.com/E6gPoqS" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Diario Fortaleza
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/92671
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/92671
 #EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Evangelizar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72628
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72628
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Notícias",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Gazeta SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/104918
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/104918
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Guarapari
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/79315
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/79315
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Jangadeiro - SBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/100419
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/100419
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Justiça
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/77620
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/77620
 #EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Novo Tempo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72411
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72411
 #EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Ra-Tim-Bum
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72415
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72415
 #EXTINF:-1 tvg-logo="http://a5.vc/hNk" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Senado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72416
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72416
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV Uniao Fortaleza
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/100424
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/100424
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] TV WA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72417
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72417
 #EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",[B][COLOR orange][B]SUPERtv[/B][/COLOR] Universal TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72422
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72422
 #EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",[B][COLOR orange][B]SUPERtv[/B][/COLOR] VH1 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/tafarel/102030/72424
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=B5 ESPORTES;url=http://b5.vc:80/herick/102030/72424
