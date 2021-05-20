@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]SUPER [COLOR white][B] [COLOR red][B] TV!![/B][/COLOR]</name>
+<name>[COLOR blue][B]SUPER [COLOR white][B][COLOR red][B] TV!![/B][/COLOR][COLOR white][B] É GRATIS, SE NÃO GOSTOU CONTRATE UM PAGO!![/B][/COLOR]</name>
 <thumbnail>https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/b9/c8/a2/b9c8a247-a3a1-5e08-c419-c4e39fcfff8d/source/512x512bb.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
