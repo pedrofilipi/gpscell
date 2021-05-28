@@ -1,0 +1,715 @@
+#EXTM3U
+#EXTINF:-1 ,[COLOR red][B]SUPERTV / MEGAtv[/B][/COLOR]
+127.0.0.1/15/02/ 25,483 
+
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] COMBATE
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/202
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATEᴮᴿ" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] COMBATEᴮᴿ
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047337
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/179
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/198
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/195
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/2786
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/189
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/187
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] SPORTV SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/176
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] SPORTV 2 SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/171
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] SPORTV 3 SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/166
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] FOX SPORTS SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/163
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SDᴮᴿ" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] FOX SPORTS SDᴮᴿ
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047310
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/160
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] FOX SPORTS 2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047309
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] ESPN SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5371
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/153
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] ESPN BRASIL SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/150
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SDᴮᴿ" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",[B][COLOR red][B]SUPERtv[/B][/COLOR] ESPN BRASIL SDᴮᴿ
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047323
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",[B][COLOR red][B]SUPERtv[/B][/COLOR] TNT SD
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/262
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SDᴮᴿ" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",[B][COLOR red][B]SUPERtv[/B][/COLOR] TNT SDᴮᴿ
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047216
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD LEG" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",[B][COLOR red][B]SUPERtv[/B][/COLOR] TNT SD LEG
+plugin://plugin.video.f4mTester/?name=SUPERtv&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9544
+
+
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",[B][COLOR blue][B]BLURAY[/B][/COLOR] Combate
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/496
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",[B][COLOR blue][B]BLURAY[/B][/COLOR] Combate SD¹
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19176
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",[B][COLOR blue][B]BLURAY[/B][/COLOR] Combate
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201398
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",[B][COLOR blue][B]BLURAY[/B][/COLOR] Combate SD³
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201399
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 1
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/567
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 1 SD
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19301
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 2
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/559
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19289
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 3
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/560
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19292
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 4
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19291
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/561
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 5
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19293
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/562
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 6
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19295
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/563
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 7
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19297
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 8 SD
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/564
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] PREMIERE 8
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19299
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] SPORTV 1
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/579
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] SPORTV 1 SD
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19322
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] SPORTV 2 SD
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/580
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="" tvg-logo="" group-title="PREMIERE ESPORTES",[B][COLOR blue][B]BLURAY[/B][/COLOR] SPORTV 2 SD
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19323
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT.png" group-title="Filmes e Series",[B][COLOR blue][B]BLURAY[/B][/COLOR] TNT SD
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19348
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT.png" group-title="Filmes e Series",[B][COLOR blue][B]BLURAY[/B][/COLOR] TNT SD
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/594
+
+
+
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/299
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SDᴮᴿ" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047356
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SDᴮᴿ" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047354
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5298
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/117
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SDᴮᴿ" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047352
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/232
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SDᴮᴿ" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047350
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD LEG" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9564
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",BABY TV (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4789
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/20
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/156
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/99
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SDᴮᴿ" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047347
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/60
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SDᴮᴿ" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047345
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/62
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SDᴮᴿ" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047342
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/212
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SDᴮᴿ" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047344
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD LEG" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9569
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/230
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SDᴮᴿ" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047340
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/f3m6Tcz.png" group-title="Canais | Notícias",CNN BRASIL SD (WEB)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=CNN BRASIL;url=https://streaming.cnnbrasil.com.br/cnndigital_main_Output5.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/f3m6Tcz.png" group-title="Canais | Notícias",CNN Brasil (WEB)
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output5.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/97
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5054
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SDᴮᴿ" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047336
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL 1 (SUPERtv)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GPSENEW;url=http://liebetv.me:80/live/Katiusa.erica/261302/40644.m3u8
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL 2 (SUPERtv)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GPSENEW;url=http://liebetv.me:80/live/Katiusa.erica/261302/40645.m3u8
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL 3 (SUPERtv)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GPSENEW;url=http://liebetv.me:80/live/Katiusa.erica/261302/40646.m3u8
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL 4 (SUPERtv)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GPSENEW;url=http://liebetv.me:80/live/Katiusa.erica/261302/40647.m3u8
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL 1 (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049945
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL 2 (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049946
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL 3 (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049947
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL 4 (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049948
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY SDᴮᴿ" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047335
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY SD" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/132
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY SD" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/108
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br " tvg-name="ID - INVESTIGATION DISCOVERY SDᴮᴿ" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047274
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME &AMP; HEALTH SD" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",DISCOVERY HOME &AMP; HEALTH (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/129
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH SDᴮᴿ" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047276
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/125
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY TURBO SDᴮᴿ" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047331
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/46
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY KIDS SDᴮᴿ" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047334
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",DISCOVERY HGTV (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/2859
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SDᴮᴿ" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",DISCOVERY HGTV SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047280
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/120
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY SCIENCE SDᴮᴿ" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047333
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER SD" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/7526
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER SDᴮᴿ" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047222
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD SD" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/7529
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/58
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SDᴮᴿ" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047329
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/56
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY JUNIOR SDᴮᴿ" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047327
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5949
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/69
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SDᴮᴿ" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047326
+#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="EI PLUS 01" tvg-logo="https://i.imgur.com/tB7eoel.png" group-title="ESPORTES ESPECIAIS",EI PLUS (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/11297
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/71
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SDᴮᴿ" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047317
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD" tvg-logo="https://i.imgur.com/AdStBKu.png" group-title="FILMES E SERIES",FOX (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/255
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SDᴮᴿ" tvg-logo="https://i.imgur.com/AdStBKu.png" group-title="FILMES E SERIES",FOX SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047316
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD LEG" tvg-logo="https://i.imgur.com/AdStBKu.png" group-title="CANAIS LEGENDADOS",FOX LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9562
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE SD" tvg-logo="https://i.imgur.com/EBE4w3V.png" group-title="FILMES E SERIES",FOX LIFE (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/251
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE SDᴮᴿ" tvg-logo="https://i.imgur.com/EBE4w3V.png" group-title="FILMES E SERIES",FOX LIFE SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047315
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 SD" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",FOX PREMIUM 1 SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10027042
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 SDᴮᴿ" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",FOX PREMIUM 1 SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047313
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",FOX PREMIUM 2 SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047311
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4551
+#EXTINF:-1 tvg-id="" tvg-name="FX SDᴮᴿ" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047307
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD LEG" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9542
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/44
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5347
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/81
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SDᴮᴿ" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047300
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4768
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SDᴮᴿ" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047292
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD LEG" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9558
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047296
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4099
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SDᴮᴿ" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047294
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/275
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/269
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SDᴮᴿ" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047282
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD LEG" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9559
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SDᴮᴿ" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047286
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5601
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/240
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI SDᴮᴿ" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047290
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD LEG" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="CANAIS LEGENDADOS",HBO MUNDI LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9556
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/235
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SDᴮᴿ" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047288
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD LEG" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9540
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/239
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME SDᴮᴿ" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047284
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="FILMES E SERIES",HBO XTREME LEG(SUPERtv)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPERtv;url=http://liebetv.me:80/live/Katiusa.erica/261302/3837.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD LEG" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="CANAIS LEGENDADOS",HBO XTREME LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9557
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="FILMES E SERIES",HBO XTREME LEG(SUPERtv)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPERtv;url=http://liebetv.me:80/live/Katiusa.erica/261302/42305.m3u8
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/111
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SDᴮᴿ" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047278
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",HISTORY 2 SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047298
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",HISTORY 2 (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/114
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/72
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SDᴮᴿ" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047272
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS GLOBOSAT (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/204
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT SDᴮᴿ" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS GLOBOSAT SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047270
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/245
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SDᴮᴿ" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047268
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD LEG" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9538
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/86
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SDᴮᴿ" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047266
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE SD" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9625
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/92
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SDᴮᴿ" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047264
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9631
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL SDᴮᴿ" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047262
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL SD" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/90
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/102
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC SDᴮᴿ" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047260
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SD" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NATIONAL GEOGRAPHIC KIDS (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4561
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SDᴮᴿ" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NATIONAL GEOGRAPHIC KIDS SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047256
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC WILD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/105
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD SDᴮᴿ" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC WILD SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047258
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK (MEGAtv)
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/52
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK JR. SDᴮᴿ" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047252
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/50
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SDᴮᴿ" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047254
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/227
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SDᴮᴿ" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047248
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="POLISHOP TV" tvg-logo="https://i.imgur.com/f0hwRtr.png" group-title="VARIEDADES",POLISHOP TV (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/17471
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/337
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SDᴮᴿ" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SDᴮᴿ (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047247
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD²" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP SD² (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10036717
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ SD" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10027009
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG SD" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9822
+#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO SD" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10027006
+#EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV BRASILIA SD" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV BRASILIA SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10636
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10643
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV CAMPINAS SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV CAMPINAS SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10027003
+#EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BA SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BA SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/19414
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10027005
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RN TV TROPICAL" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RN TV TROPICAL (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10027012
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Variedades",REDE TV (WEB)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Variedades",REDE TV HD(WEB)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=REDE TV HD;url=https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! SD" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDE TV! (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5143
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! SDᴮᴿ" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! SDᴮᴿ (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047243
+#EXTINF:-1 tvg-id="Sbtrede" tvg-name="Sbtrede.br" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais | Regionais",SBT Interior (WEB)
+https://5a1c76baf08c0.streamlock.net/sbtinterior/1188a11bf381761a6d27ee6d93d69b75/chunklist_w1136191650_tkd293emF0b2tlbmhhc2g9bUIwYno3M3NkTHZuLUIydGVmX0tOZ0I5LTRzSGw0ZTFPWTBSRjZueWxEWT0=.ts
+#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT SD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4079
+#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT SDᴮᴿ" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047241
+#EXTINF:-1 tvg-id="Rede" tvg-name="SBT PR" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT PR (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049867
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/224
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SDᴮᴿ" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047239
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD LEG" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9536
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/218
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SDᴮᴿ" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047206
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/216
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/221
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SDᴮᴿ" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047236
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/Ndlsl8j.png" group-title="FILMES E SERIES",TCM (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/214
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TELECINE ACTION (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/295
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SDᴮᴿ" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TELECINE ACTION SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047234
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD LEG" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TELECINE ACTION LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9554
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TELECINE CULT (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/281
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SDᴮᴿ" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TELECINE CULT SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047230
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD LEG" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TELECINE CULT LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10033190
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TELECINE FUN (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/292
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SDᴮᴿ" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TELECINE FUN SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047232
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://distv.net/icons/tcfun.png" group-title="FILMES E SERIES",TELECINE FUN LEG(SUPERtv)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPERtv;url=http://liebetv.me:80/live/Katiusa.erica/261302/42291.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/2754
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SDᴮᴿ" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047226
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/286
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SDᴮᴿ" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047228
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD LEG" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TELECINE PREMIUM LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://liebetv.me:80/live/Katiusa.erica/261302/42285.m3u8
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://distv.net/icons/tcpremium.png" group-title="FILMES E SERIES",TELECINE PREMIUM LEG(SUPERtv)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPERtv;url=http://liebetv.me:80/live/Katiusa.erica/261302/3904.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/283
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SDᴮᴿ" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047224
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD LEG" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TELECINE TOUCH LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9546
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/76
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SDᴮᴿ" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047220
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/262
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SDᴮᴿ" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047216
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD LEG" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9544
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/259
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES SDᴮᴿ" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SÉRIES SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047218
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD LEG" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES LEG (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9534
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://i.imgur.com/lVGMsUB.png" group-title="INFANTIS",TOONCAST (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/48
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/41
+#EXTINF:-1 tvg-id="" tvg-name="TV RÁ TIM BUM SDᴮᴿ" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RÁ TIM BUM SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047208
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL SD" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/209
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/78
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SDᴮᴿ" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047204
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SDᴮᴿ" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER CHANNEL SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047202
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/242
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/136
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SDᴮᴿ" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO SD (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047200
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://i.imgur.com/pGDfA60.png" group-title="INFANTIS",ZOOMOO (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/17470
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Canais | Religiosos",TV NOVO TEMPO HD (WEB)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Novo Tempo;url=http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.br" tvg-name="Red Bull TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" group-title="Canais | Web TV",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="Rede Minas HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/96ed4934fbcf5351314bfabfd78a976c.png" group-title="Canais | Web TV",Rede Minas HD
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1974272.m3u8?sts=st=1593119301~exp=1593125901~acl=/*~hmac=be29dd11284f44db17984f9b94a376af778ae3284dfd70fe97f5ac44625976c0
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="Canais | Web TV",TV CULTURA HD
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1820107388.m3u8
+#EXTINF:-1 tvg-id="Rock TV" tvg-name="Rock TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d96d5f7cae73793f08a7b18b8302511b.png" group-title="Canais | Web TV",Rock FM TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w885719959_b300000.m3u8?publisher=83
+#EXTINF:-1 tvg-id="REDE PREMIUM TV " tvg-name="REDE PREMIUM TV " tvg-logo="https://2.bp.blogspot.com/-DIel-15w_RA/XYQUDMew-3I/AAAAAAAAB9Y/g8ZgiEk-3BQt9t9LIsRr3pD3Yzj6zrcfgCLcBGAsYHQ/s320/Screenshot_2019-09-19-20-29-00.png" group-title="Canais | Web TV",REDE PREMIUM TV HD
+https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist_b1392640.m3u8?sts=st=1593121154~exp=1593127754~acl=/*~hmac=454a6831056ee66221347b4b810c49630f855cf7db4c08634f0929b34a4dac65
+#EXTINF:-1 tvg-id="CINE TRIANON TV  " tvg-name="CINE TRIANON TV " tvg-logo="https://4.bp.blogspot.com/-O6b1vLp4rRM/XsdMGPXEjaI/AAAAAAAAC1w/ZF_1nR8W7kUECG6l_q8rZGydIl_k0ck4QCLcBGAsYHQ/s320/Screenshot_2020-05-22-00-47-49.png" group-title="CINE TRIANON TV ",CINE TRIANON TV  HD
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1995946966.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="https://2.bp.blogspot.com/-LXGu-td6QpY/XQq_BBU47RI/AAAAAAAABHk/4hsy2-T2Wv8xRhI7_Nm8_ZrqOVokyCroQCPcBGAYYCw/s320/Screenshot_2019-06-19-19-50-05.png" group-title="CINE TRIANON TV ",TV NA ILHA
+https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w1051957701.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="https://2.bp.blogspot.com/-LXGu-td6QpY/XQq_BBU47RI/AAAAAAAABHk/4hsy2-T2Wv8xRhI7_Nm8_ZrqOVokyCroQCPcBGAYYCw/s320/Screenshot_2019-06-19-19-50-05.png" group-title="CINE TRIANON TV ",TV NA ILHA (f4mtester kodi)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=TV NA ILHA;url=https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w1051957701.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="https://bleez.com.br/wp-content/uploads/2015/08/tv-diario-bleez.png" group-title="CINE TRIANON TV ",TV DIARIO
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTQ561xcUau8Cz2fA2nxpG4)/dm/3/x7txn7q/s/live-0.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ee4c267eb8ceadf63a93090b9844f642.png" group-title="CINE TRIANON TV ",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20200724_1595602707210/1200K/1200_slide.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="https://static-media.streema.com/media/cache/41/1d/411dca56bf95e50a342ac6e619528213.jpg" group-title="CINE TRIANON TV ",Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w1591466925.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" group-title="CINE TRIANON TV ",Retro Plus TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1217726241.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9423ac704cba42b30d490a6d3fdab2ec.jpg" group-title="CINE TRIANON TV ",RTL TV (TV Litoral)
+https://cdn-kassem-1574.ciclano.io:1443/kassem-1574/kassem-1574/chunklist_w1252434022.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc4cd15f95807d0d3c794fa75b574ac3.png" group-title="CINE TRIANON TV ",ON FM Portugal
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w433339583.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cbfeb6dc77ffeed665a89126331dd783.png" group-title="CINE TRIANON TV ",Spirit Television
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4e58712f10b3d9219c4207cc82f20dcd.png" group-title="CINE TRIANON TV ",Tv União Brasília
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/chunklist_w815165493.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf879a034bc15d54ba0198fdd044193a.png" group-title="CINE TRIANON TV ",DJing
+https://www.djing.com/tv/i-29376-03.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f9d04042613fc569bfe9e870991cd54f.png" group-title="CINE TRIANON TV ",WebTV Imagem de Caetano
+https://srv4.zcast.com.br/tvmf/tvmf/chunklist_w2011649653.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8936ceb865591bcc9ace180f253fc697.jpg" group-title="CINE TRIANON TV ",Viva Web Tv
+http://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w355773209.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/454924e01d06c3bc20131e8514187305.png" group-title="CINE TRIANON TV ",ConecTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9e4e57300d4c9b1ea919de568d404253.png" group-title="CINE TRIANON TV ",allTV
+https://cdn.jmvstream.com/w/AVJ-9086/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/badc4347a2a304083a5bd11e6576d7e2.png" group-title="CINE TRIANON TV ",Bah TV
+https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/chunklist_b328000.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/869d9be68f82b274e10bb9eb5e486675.png" group-title="CINE TRIANON TV ",Rede Metrópole
+http://177.130.81.30/hls/metropole.m3u8
+#EXTINF:-1 tvg-id="TV NA ILHA  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3f71848039f8ff22ebf9597c76217099.jpg" group-title="CINE TRIANON TV ",Latinasat TV
+https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GLOBO NEWS (MEGAtv)
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/18
+
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GLOBO NSC TV CENTRO-OESTE SD" tvg-logo="https://i.imgur.com/aKD6sgd.png" group-title="GLOBOS",TV GLOBO
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049045
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Curitiba SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-RPC-curitiba.png" group-title="Rede Globo",TV GLOBO RPC
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19426
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-RPC-curitiba.png" group-title="Rede Globo",TV GLOBO RPC 2
+plugin://plugin.video.f4mTester/?name=BLURAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/576
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GLOBO 1
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4913
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GLOBO 2
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10047304
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GLOBO 3
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4860
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GLOBO 4
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/341
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GLOBO 5
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/2829
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GLOBO 6
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5782
+#EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GLOBO 7
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4864
+#EXTINF:-1 tvg-id="Eptvrpreto.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GLOBO 8
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4863
+#EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name="GLOBO EPTV CENTRAL SAO CARLOS SD" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GLOBO 9
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5549
+#EXTINF:-1 tvg-id="Eptvrpreto.br" tvg-name="GLOBO EPTV ARARAQUARA SD" tvg-logo="https://i.imgur.com/GzUN9fv.png" group-title="GLOBOS",GLOBO 10
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/6557
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM S. J. RIO PRETO SD" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GLOBO 11
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4856
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM ITAPETININGA SD" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GLOBO 12
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049100
+#EXTINF:-1 tvg-id="Tvtemsjrp.br" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GLOBO 13
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4857
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GLOBO 14
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/317
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TV VANGUARDA TAUBATE SD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GLOBO 15
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049115
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TV FRONTEIRA P. PRUDENTE SD" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GLOBO 16
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049106
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GLOBO NSC BLUMENAU SD" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GLOBO 17
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/11226
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GLOBO NSC TV CHAPECO" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GLOBO 18
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049032
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GLOBO NSC TV CRICIUMA SD" tvg-logo="https://i.imgur.com/TReP1JD.png" group-title="GLOBOS",GLOBO 19
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049048
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GLOBO NSC FLORIANOPOLIS SD" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GLOBO 21
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/6559
+#EXTINF:-1 tvg-id="Globonscjoinville.br" tvg-name="GLOBO NSC JOINVILLE SD" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GLOBO 22
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/11220
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS PORTO ALEGRE SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GLOBO 23
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/321
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS CAXIAS DO SUL SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GLOBO 24
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/11223
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS PELOTAS SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GLOBO 25
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/11217
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS TV SANTA MARIA SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GLOBO 26
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049042
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GLOBO 27
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4793
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC FOZ DO IGUACU SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GLOBO 28
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049029
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC MARINGA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GLOBO 29
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10035643
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV PONTA GROSSA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GLOBO 30
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049039
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV PARANAVAI SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GLOBO 31
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049033
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO TV ANHANGUERA GOIANIA SD" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GLOBO 32
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/6563
+#EXTINF:-1 tvg-id="Intertvgminas.br " tvg-name="GLOBO INTER TV GRANDE MINAS SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GLOBO 33
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/11232
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GLOBO INTER TV DOS VALES SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GLOBO 34
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/11235
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GLOBO TV INTEGRAÇÃO ARAXA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GLOBO 35
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049057
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GLOBO TV INTEGRAÇÃO JUIZ DE FORA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GLOBO 36
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049054
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GLOBO TV INTEGRACAO UBERLANDIA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GLOBO 37
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049112
+#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GLOBO EPTV SUL DE MINAS SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GLOBO 38
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049060
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GLOBO 39
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/4859
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV VANGUARDA S J CAMPOS SD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GLOBO 40
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/6552
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GLOBO 41
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/11211
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GLOBO 42
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/11238
+#EXTINF:-1 tvg-id="Intertvserramar.br " tvg-name="GLOBO INTER TV SERRA MAR SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GLOBO 43
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/11229
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO TV GAZETA VITÓRIA SD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GLOBO 44
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9516
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GLOBO 45
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5780
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GLOBO 46
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/11214
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA SD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GLOBO 47
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5777
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV SANTA CRUZ SD" tvg-logo="https://i.imgur.com/kQpiuPs.png" group-title="GLOBOS",GLOBO 48
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/11208
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GLOBO TV MIRANTE SAO LUIS SD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GLOBO 49
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9590
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GLOBO TV SERGIPE SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GLOBO 50
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9513
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GLOBO TV GAZETA ALAGOAS SD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GLOBO 51
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9656
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GLOBO TV CLUBE TERESINA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GLOBO 52
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9519
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA CAMPO GRANDE SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GLOBO 53
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/9587
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO TV GAZETA SUL SD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GLOBO 54
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049051
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV ASA BRANCA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GLOBO 55
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049036
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO TV CENTRO AMERICA CUIABA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GLOBO 56
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/6564
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GLOBO REDE AMAZONICA SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GLOBO 57
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5779
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GLOBO TV REDE AMAZONICA BOA VISTA SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GLOBO 58
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049103
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GLOBO 59
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049109
+#EXTINF:-1 tvg-id="RedeamazonicaRioBranco.br" tvg-name="GLOBO TV REDE AMAZONICA RIO BRANCO" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GLOBO 60
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10049610
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV LIBERAL BELEM SD" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GLOBO 61
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5778
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO VERDES MARES SD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GLOBO 62
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/5776
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO PETROLINA TV GRANDE RIO" tvg-logo="https://i.imgur.com/ZmKuqQk.png" group-title="GLOBOS",GLOBO 63
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/19487
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GLOBO 64
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10050093
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC LONDRINA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GLOBO 65
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10050090
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES CARIRI SD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GLOBO 66
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10050077
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV REDE AMAZONICA MACAPA SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GLOBO 67
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10050074
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CASCAVEL SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GLOBO 68
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10050071
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE COCAIS SD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GLOBO 69
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10050066
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO UBERABA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GLOBO 70
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10050063
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SUBAE SD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GLOBO 71
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10050060
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SUDOESTE SD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GLOBO 72
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10050057
+#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="GLOBO NOW SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GLOBO NOW SD
+plugin://plugin.video.f4mTester/?name=MEGA_TV&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/1675
