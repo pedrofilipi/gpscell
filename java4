@@ -290,6 +290,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SuperTV;url=http:/
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SuperTV;url=http://cdnrede.com:80/amgRoberto/verdao19/21248
 #EXTINF:-1,[B][COLOR orange][B]SUPERtv[/B][/COLOR] PREMIERE 4 SD ²
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SuperTV;url=http://cdnrede.com:80/amgRoberto/verdao19/21246
+#EXTINF:-1,[B][COLOR orange][B]SUPERtv[/B][/COLOR] PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SuperTV;url=http://cdnrede.com:80/amgRoberto/verdao19/5198
+#EXTINF:-1,[B][COLOR orange][B]SUPERtv[/B][/COLOR] PREMIERE 5 SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SuperTV;url=http://cdnrede.com:80/amgRoberto/verdao19/21244
 #EXTINF:-1,[B][COLOR orange][B]SUPERtv[/B][/COLOR] PREMIERE 6 SD ²
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SuperTV;url=http://cdnrede.com:80/amgRoberto/verdao19/21242
 #EXTINF:-1,[B][COLOR orange][B]SUPERtv[/B][/COLOR] PREMIERE 7 SD ²
