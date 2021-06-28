@@ -1,52 +1,52 @@
 #EXTM3U
 #EXTINF:-1 ,[B][COLOR red][B]SUPERtv[/B][/COLOR] [COLOR red][B]SUPERTV[/COLOR]
-127.0.0.1/15/02/ 25,[B][COLOR red][B]SUPERtv[/B][/COLOR] 483 
+127.0.0.1/15/02/ 25,[B][COLOR red][B]SUPERtv[/B][/COLOR]
 
 
 
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD*" tvg-logo="https://i.imgur.com/HJLIkfZ.png",[B][COLOR red][B]CLUB[/B][/COLOR] Premiere Clubes HD*
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD*" tvg-logo="https://i.imgur.com/HJLIkfZ.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] Premiere Clubes HD*
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=PREMIERE CLUBES HD;url=http://svrhost.club/live/6478/0000/1428.m3u8?tkn=1624124415
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD *" tvg-logo="https://i.imgur.com/1y5WMY7.png",[B][COLOR red][B]CLUB[/B][/COLOR] Premiere 2 HD *
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD *" tvg-logo="https://i.imgur.com/1y5WMY7.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] Premiere 2 HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Premiere 2 HD;url=http://svrhost.club/live/ip1417/244255/164.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD *" tvg-logo="https://i.imgur.com/Y2fZY8J.png",[B][COLOR red][B]CLUB[/B][/COLOR] Premiere 3 HD *
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD *" tvg-logo="https://i.imgur.com/Y2fZY8J.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] Premiere 3 HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Premiere 3 HD;url=http://svrhost.club/live/ip1417/244255/163.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD *" tvg-logo="https://i.imgur.com/aoA8M7P.png",[B][COLOR red][B]CLUB[/B][/COLOR] Premiere 4 HD *
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD *" tvg-logo="https://i.imgur.com/aoA8M7P.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] Premiere 4 HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Premiere 4 HD;url=http://svrhost.club/live/ip1417/244255/162.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="Premiere 5 HD *" tvg-logo="https://i.imgur.com/nXHy4vV.png",[B][COLOR red][B]CLUB[/B][/COLOR] Premiere 5 HD *
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="Premiere 5 HD *" tvg-logo="https://i.imgur.com/nXHy4vV.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] Premiere 5 HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Premiere 5 HD;url=http://svrhost.club/live/ip1417/244255/161.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="Premiere 6 HD *" tvg-logo="https://i.imgur.com/1tHdG22.png",[B][COLOR red][B]CLUB[/B][/COLOR] Premiere 6 HD *
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="Premiere 6 HD *" tvg-logo="https://i.imgur.com/1tHdG22.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] Premiere 6 HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Premiere 6 HD;url=http://svrhost.club/live/ip1417/244255/16005.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://i.imgur.com/1VrAUev.png",[B][COLOR red][B]CLUB[/B][/COLOR] Premiere 7 HD
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://i.imgur.com/1VrAUev.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] Premiere 7 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Premiere 7 HD;url=http://svrhost.club/live/ip1417/244255/3287.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD *" tvg-logo="https://imgur.com/IYp8j04.png",[B][COLOR red][B]CLUB[/B][/COLOR] SporTV HD
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD *" tvg-logo="https://imgur.com/IYp8j04.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] SporTV HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SPORTV HD;url=http://svrhost.club/live/6478/0000/1928.m3u8?tkn=1624124515
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="https://imgur.com/IYp8j04.png",[B][COLOR red][B]CLUB[/B][/COLOR] SporTV HD *
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="https://imgur.com/IYp8j04.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] SporTV HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SPORTV HD;url=http://svrhost.club/live/6478/0000/154.m3u8?tkn=1624124415
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2  HD *" tvg-logo="https://imgur.com/MrNEFnq.png",[B][COLOR red][B]CLUB[/B][/COLOR] SporTV 2  HD *
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2  HD *" tvg-logo="https://imgur.com/MrNEFnq.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] SporTV 2  HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SporTV 2  HD;url=http://svrhost.club/live/ip1417/244255/156.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3  HD *" tvg-logo="https://imgur.com/ydpEvUA.png",[B][COLOR red][B]CLUB[/B][/COLOR] SporTV 3  HD *
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3  HD *" tvg-logo="https://imgur.com/ydpEvUA.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] SporTV 3  HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SporTV 3  HD;url=http://svrhost.club/live/ip1417/244255/155.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD *" tvg-logo="https://imgur.com/EPwpUxa.png",[B][COLOR red][B]CLUB[/B][/COLOR] ESPN HD *
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD *" tvg-logo="https://imgur.com/EPwpUxa.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] ESPN HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=ESPN HD;url=http://svrhost.club/live/ip1417/244255/190.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD *" tvg-logo="https://imgur.com/pzizQU5.png",[B][COLOR red][B]CLUB[/B][/COLOR] ESPN 2 HD *
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD *" tvg-logo="https://imgur.com/pzizQU5.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] ESPN 2 HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=ESPN 2 HD;url=http://svrhost.club/live/ip1417/244255/1168.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD*" tvg-logo="https://imgur.com/xM1PJNc.png",[B][COLOR red][B]CLUB[/B][/COLOR] ESPN Extra HD*
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD*" tvg-logo="https://imgur.com/xM1PJNc.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] ESPN Extra HD*
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=ESPN Extra HD;url=http://svrhost.club/live/ip1417/244255/194.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD *" tvg-logo="https://imgur.com/rvGtwzg.png",[B][COLOR red][B]CLUB[/B][/COLOR] ESPN BRASIL HD *
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD *" tvg-logo="https://imgur.com/rvGtwzg.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] ESPN BRASIL HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=ESPN BRASIL HD;url=http://svrhost.club/live/ip1417/244255/191.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD *" tvg-logo="https://imgur.com/kKjS6aJ.png",[B][COLOR red][B]CLUB[/B][/COLOR] Fox Sports HD *
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD *" tvg-logo="https://imgur.com/kKjS6aJ.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] Fox Sports HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Fox Sports HD;url=http://svrhost.club/live/ip1417/244255/184.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 HD *" tvg-logo="https://imgur.com/YaRiLZJ.png",[B][COLOR red][B]CLUB[/B][/COLOR] Fox Sports 2 HD *
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 HD *" tvg-logo="https://imgur.com/YaRiLZJ.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] Fox Sports 2 HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Fox Sports 2 HD;url=http://svrhost.club/live/ip1417/244255/183.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD *" tvg-logo="https://imgur.com/3OlWozD.png" group-title="Filmes e Séries",[B][COLOR red][B]CLUB[/B][/COLOR] TNT HD *
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD *" tvg-logo="https://imgur.com/3OlWozD.png" group-title="Filmes e Séries",[B][COLOR red][B]SUPERtv[/B][/COLOR] TNT HD *
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=TNT HD;url=http://svrhost.club/live/ip1417/244255/147.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD" tvg-logo="https://imgur.com/FleD3H4.jpg",[B][COLOR red][B]CLUB[/B][/COLOR] Conmebol TV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD" tvg-logo="https://imgur.com/FleD3H4.jpg",[B][COLOR red][B]SUPERtv[/B][/COLOR] Conmebol TV 1 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Conmebol TV 1 HD;url=http://svrhost.club/live/ip1417/244255/16071.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 HD" tvg-logo="https://imgur.com/FleD3H4.jpg",[B][COLOR red][B]CLUB[/B][/COLOR] Conmebol TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 HD" tvg-logo="https://imgur.com/FleD3H4.jpg",[B][COLOR red][B]SUPERtv[/B][/COLOR] Conmebol TV 2 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Conmebol TV 2 HD;url=http://svrhost.club/live/ip1417/244255/16073.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 HD" tvg-logo="https://imgur.com/FleD3H4.jpg",[B][COLOR red][B]CLUB[/B][/COLOR] Conmebol TV 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 HD" tvg-logo="https://imgur.com/FleD3H4.jpg",[B][COLOR red][B]SUPERtv[/B][/COLOR] Conmebol TV 3 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name= Conmebol TV 3 HD;url=http://svrhost.club/live/ip1417/244255/16085.m3u8?tkn=1624124453
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 HD" tvg-logo="https://imgur.com/FleD3H4.jpg",[B][COLOR red][B]CLUB[/B][/COLOR] Conmebol TV 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 HD" tvg-logo="https://imgur.com/FleD3H4.jpg",[B][COLOR red][B]SUPERtv[/B][/COLOR] Conmebol TV 4 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Conmebol TV 4 HD;url=http://svrhost.club/live/ip1417/244255/16086.m3u8?tkn=1624124453
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://imgur.com/gme82kc.png",[B][COLOR red][B]SUPERtv[/B][/COLOR] A&E HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPERTV;url=http://svrhost.club/live/5759/0000/2043.m3u8?tkn=1624124515
