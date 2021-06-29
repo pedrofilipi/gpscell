@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,[COLOR yellow][B]SUPER TV!!![/B][/COLOR]
+#EXTINF:-1 ,[B][COLOR red][B]SUPERtv[/B][/COLOR]
 127.0.0.1/03/07/2021
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://10gbpsdz.link/Logo%20Filmes/A%26E.png" group-title="CANAIS | FILMES & SÉRIES ",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] A&E SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/843225
