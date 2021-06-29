@@ -1,16 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24H: MICHAEL JACKSON (CLIPE)" tvg-logo="http://meudotz.me:80/images/53d84d5959538cc9803821cc5b970700.jpg" group-title="CANAIS | 24H",24H: MICHAEL JACKSON (CLIPE)
-http://clientadm.fun:80/live/gabriel/123456789/845039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H: MOSQUITO, MOSQUETE e MOSCARDO" tvg-logo="http://meudotz.me:80/images/53d84d5959538cc9803821cc5b970700.jpg" group-title="CANAIS | 24H",24H: MOSQUITO, MOSQUETE e MOSCARDO
-http://clientadm.fun:80/live/gabriel/123456789/845040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H: MUNDO BITA" tvg-logo="http://meudotz.me:80/images/53d84d5959538cc9803821cc5b970700.jpg" group-title="CANAIS | 24H",24H: MUNDO BITA
-http://clientadm.fun:80/live/gabriel/123456789/845041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H: MÁGICA PARA HUMANIDADE" tvg-logo="http://meudotz.me:80/images/53d84d5959538cc9803821cc5b970700.jpg" group-title="CANAIS | 24H",24H: MÁGICA PARA HUMANIDADE
-http://clientadm.fun:80/live/gabriel/123456789/845042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H: NARUTO" tvg-logo="http://meudotz.me:80/images/53d84d5959538cc9803821cc5b970700.jpg" group-title="CANAIS | 24H",24H: NARUTO
-http://clientadm.fun:80/live/gabriel/123456789/845043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H: NARUTO SHIPPUDEN" tvg-logo="http://meudotz.me:80/images/53d84d5959538cc9803821cc5b970700.jpg" group-title="CANAIS | 24H",24H: NARUTO SHIPPUDEN
-http://clientadm.fun:80/live/gabriel/123456789/845044.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24H: O FANTÁSTICO MUNDO DE BOBBY" tvg-logo="http://meudotz.me:80/images/53d84d5959538cc9803821cc5b970700.jpg" group-title="CANAIS | 24H",24H: O FANTÁSTICO MUNDO DE BOBBY
 http://clientadm.fun:80/live/gabriel/123456789/845045.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H: O MÁSKARA" tvg-logo="http://meudotz.me:80/images/53d84d5959538cc9803821cc5b970700.jpg" group-title="CANAIS | 24H",24H: O MÁSKARA
