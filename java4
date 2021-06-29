@@ -23,3 +23,15 @@ http://clientadm.fun:80/live/gabriel/123456789/845048.m3u8
 http://clientadm.fun:80/live/gabriel/123456789/845049.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H: OS FLINTSTONES" tvg-logo="http://meudotz.me:80/images/53d84d5959538cc9803821cc5b970700.jpg" group-title="CANAIS | 24H",24H: OS FLINTSTONES
 http://clientadm.fun:80/live/gabriel/123456789/845050.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://10gbpsdz.link/Logo%20Filmes/A%26E.png" group-title="CANAIS | FILMES & SÉRIES ",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/843225
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD²" tvg-logo="http://10gbpsdz.link/Logo%20Documentario/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTÁRIOS",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] ANIMAL PLANET SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/845348
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://10gbpsdz.link/Logo%20Documentario/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTÁRIOS",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/843213
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD²" tvg-logo="https://i.imgur.com/B73yMuP.jpg" group-title="CANAIS | VARIEDADES",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] ARTE 1 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/845349
+#EXTINF:-1 tvg-id="loading" tvg-name="AXN SD" tvg-logo="http://10gbpsdz.link/Logo%20Filmes/AXN.png" group-title="CANAIS | FILMES & SÉRIES ",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/843226
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD²" tvg-logo="http://10gbpsdz.link/Logo%20Filmes/AXN.png" group-title="CANAIS | FILMES & SÉRIES ",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] AXN SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/845350
