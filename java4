@@ -1,5 +1,6 @@
+#EXTM3U
 #EXTINF:-1 ,[COLOR yellow][B]SUPER TV!!![/B][/COLOR]
-03/07/2021
+127.0.0.1/03/07/2021
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://10gbpsdz.link/Logo%20Filmes/A%26E.png" group-title="CANAIS | FILMES & SÉRIES ",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] A&E SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/843225
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD²" tvg-logo="http://10gbpsdz.link/Logo%20Documentario/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTÁRIOS",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] ANIMAL PLANET SD²
@@ -566,3 +567,20 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http:/
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/845452
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://i.imgur.com/B73yMuP.jpg" group-title="CANAIS | VARIEDADES",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] ZOOMOO SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/843332
+
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME SD" tvg-logo="https://i.imgur.com/O57vbgd.jpg" group-title="CANAIS | ADULTOS",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] SEXTREME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/843235
+#EXTINF:-1 tvg-id="" tvg-name="VENUS SD" tvg-logo="https://i.imgur.com/O57vbgd.jpg" group-title="CANAIS | ADULTOS",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] VENUS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/843307
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY SD" tvg-logo="https://i.imgur.com/O57vbgd.jpg" group-title="CANAIS | ADULTOS",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] PLAYBOY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/843311
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT SD" tvg-logo="https://i.imgur.com/O57vbgd.jpg" group-title="CANAIS | ADULTOS",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] SEXY HOT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/843333
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY SD²" tvg-logo="https://i.imgur.com/O57vbgd.jpg" group-title="CANAIS | ADULTOS",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] XXX: PLAYBOY SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/845124
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEX PRIVE SD²" tvg-logo="https://i.imgur.com/O57vbgd.jpg" group-title="CANAIS | ADULTOS",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] XXX: SEX PRIVE SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/845126
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME SD²" tvg-logo="https://i.imgur.com/O57vbgd.jpg" group-title="CANAIS | ADULTOS",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] XXX: SEXTREME SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/845127
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT SD²" tvg-logo="https://i.imgur.com/O57vbgd.jpg" group-title="CANAIS | ADULTOS",[B][COLOR yellow][B]SUPER TV[/B][/COLOR] XXX: SEXY HOT SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPERTV;url=http://clientadm.fun:80/gabriel/123456789/845129
