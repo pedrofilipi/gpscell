@@ -1,0 +1,1617 @@
+#EXTM3U
+#EXTINF:-1 ,[COLOR BLACK][B]GRATIS ||[/B][/COLOR][COLOR yellow][B] SUPER TV!![/B][/COLOR]
+127.0.0.1/02/08
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A&E FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81599.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/23156.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/23157.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A&E HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35224.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A&E HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35225.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AXN FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81600.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/23691.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/23692.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AXN HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35228.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AXN HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35229.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AMC FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81601.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/23687.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/23688.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AMC HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35226.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AMC HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35227.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ANIMAL PLANET FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81575.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/23689.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/23690.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ANIMAL PLANET HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30202.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ANIMAL PLANET HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30203.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ARTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/67512.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8660.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND SP HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31029.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8659.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11724.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91918.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20522.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND CORITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91917.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/72575.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND RECIFE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8658.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND SPORTS FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81585.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8661.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8662.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND SPORTS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30064.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND SPORTS HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/26724.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND NEWS FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81596.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND NEWS HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11769.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BAND NEWS HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30171.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BOOMERANG FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8687.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8688.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BOOMERANG HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/38013.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BABY TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/23693.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11772.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BABY TV HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/38011.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MAIS NA TELA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93916.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MAIS NA TELA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8883.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MAIS NA TELA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92649.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8680.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BIS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8681.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8698.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8699.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CARTOON NETWOORK HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/38015.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CARTOON NETWOORK HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/38016.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] COMEDY CENTRAL FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81602.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8718.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8719.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8720.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] COMEDY CENTRAL HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35234.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] COMEDY CENTRAL HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35235.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE MARVEL VS DC ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/68496.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE DISNEY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/68497.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE FAROESTE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/68498.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE SESSÃO DA TARDE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/68499.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69272.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE KID
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69273.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13423.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE TERROR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13436.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINEMAX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8708.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8709.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINEMAX HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35232.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINEMAX HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35233.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CANAL BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8691.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8692.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CANAL BRASIL HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35231.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CANAL BRASIL HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35230.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CNN BRASIL FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81597.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8711.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CNN BRASIL HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30166.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CNN BRASIL HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30167.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] COMBATE  FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81586.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] COMBATE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8714.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8716.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] COMBATE HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30066.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] COMBATE HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30067.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CURTA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12948.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CURTA ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13507.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE SKY 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13071.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE SKY 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13072.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE SKY 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13073.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE SKY 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13074.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE SKY 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13075.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE SKY 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13076.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE SKY 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13077.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE SKY 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13078.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE SKY 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13079.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE SKY 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13080.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE SKY 11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20866.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE PIPOCA 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13081.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE PIPOCA 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13082.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE PIPOCA 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13083.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE PIPOCA 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13084.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE PIPOCA 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13085.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE PIPOCA 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13086.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE PIPOCA 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13087.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE PIPOCA 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13088.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE PIPOCA 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13089.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CINE PIPOCA 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13090.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69903.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 1¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69904.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 1 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81604.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69899.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 1 ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/73663.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 1 ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/73664.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 2 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81605.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69900.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 2 ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/73665.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 2 ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/73666.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 3 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81606.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69901.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 3 ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/73667.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 3 ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/73668.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 4 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81607.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69902.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONMEBOL 4 ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/73670.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY CHANNEL FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91396.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY CHANNEL ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/43928.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8735.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY CHANNEL HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8736.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY CHANNEL HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30148.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY HOME & HEALTH FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91397.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY HOME & HEALTH FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8739.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8740.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY HOME & HEALT HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93902.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY  HOME & HEALTH HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30149.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY SCIENCE FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91402.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY SCIENCE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8745.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8746.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY SCIENCE HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93903.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY SCIENCE HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30151.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY THEATER FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91401.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY THEATER FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8748.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8751.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY THEATER HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93904.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY THEATER HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30153.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY TLC FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91400.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8753.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY TLC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8754.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY TURBO FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91399.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8755.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8756.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY TURBO HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30156.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY TURBO HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30155.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY WORLD FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91398.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY WORLD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8758.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8759.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY WORLD HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93905.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY WORLD HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30157.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ID - INVESTIGAÇÃO DISCOVERY FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91403.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ID - INVESTIGAÇÃO DISCOVERY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8932.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ID - INVESTIGAÇÃO DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8933.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ID - INVESTIGAÇÃO DISCOVERY HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8934.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ID - INVESTIGAÇÃO DISCOVERY HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30172.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY KIDS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8742.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8743.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY KIDS HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/38017.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISCOVERY KIDS HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/38018.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8762.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8763.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISNEY CHANNEL HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/38019.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISNEY JR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8765.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISNEY JR FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8766.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISNEY JUNIOR HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/38021.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISNEY JUNIOR HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/38022.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISNEY XD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8768.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8770.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DISNEY XD HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/38023.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DAZN FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/54928.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DAZN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/54931.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DAZN HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92648.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21645.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91904.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91905.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DAZN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91906.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81587.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8786.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30071.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN  HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30072.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN 2 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81588.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8788.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8787.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN 2 HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30073.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30074.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN BRASIL FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81589.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8793.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8791.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN BRASIL HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30075.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN BRASIL  HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30076.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN EXTRA FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81590.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8794.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESPN EXTRA HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30077.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] E! FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8782.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] E! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8783.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92631.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92632.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92633.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92634.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92635.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92636.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ELEVEN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92637.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] EI PLUS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34397.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] EI PLUS 1 [ ALTER ]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34413.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] EI PLUS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34398.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] EI PLUS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34400.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] EI PLUS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34402.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] EI PLUS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34404.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8833.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20758.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FX HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35236.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FX HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35237.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR CHANNEL FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92054.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8814.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR CHANNEL HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31045.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR CHANNEL HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93935.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR LIFE FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92055.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8818.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR LIFE HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31047.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR LIFE HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31048.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR HITS 1 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92056.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR HITS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8820.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR HITS 1 HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31049.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR HITS 1 HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31050.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR HITS 2 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92057.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR HISTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8823.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR HITS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8824.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR HITS 2 HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31051.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STAR HITS 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31052.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81578.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/26726.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81612.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8828.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20947.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS  HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30083.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/26725.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS  HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30082.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS 2 FHD H2.65
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81594.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8826.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8827.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS 2  HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30081.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOX SPORTS 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30084.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FISH TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8807.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8808.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOOD NETWOORK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13522.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOOD NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8811.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8810.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO SP FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81576.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO SP ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30113.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO SP HD'
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30115.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO SP HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21676.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO SP HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8875.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO SP HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30117.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO SP FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9242.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO SP FHD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8872.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RJ FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81577.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8866.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8868.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RJ HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30105.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RJ HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30110.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RJ INTERIOR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91915.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO TV ASA BRANCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71818.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO AMAZONAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21648.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO BRASILIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21655.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8841.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO BRASILIA HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93891.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO BAHIA FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81625.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO BAHIA HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30085.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO TV LIBERAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/80095.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO BELEM FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81627.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO BELEM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12939.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO BELEM ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21654.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO CEARA FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81626.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO CEARA ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30090.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO CABUGI ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/83754.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO CENTRO AMERICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12940.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO CABO BRANCO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12997.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO EPTV CAMPINAS HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8845.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8846.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO NORDESTE FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81628.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO NORDESTE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21666.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO NORDESTE HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8858.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO NORDESTE HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30096.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO REDE AMAZÔNICA PORTO VELHO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93398.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RBS FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81609.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RBS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8860.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RBS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8861.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RBS PORTO ALEGRE HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30099.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RBS PORTO ALEGRE ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21669.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RBS PORTO ALEGRE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8862.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RIO GRANDE DO SUL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30108.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RBS PELOTAS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69239.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RBS TV CAXIAS DO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91912.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RPC PARANAVAI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69048.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RPC PONTA GROSSA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69049.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RECIFE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8863.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RECIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93285.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RECIFE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93286.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RPC FOZ DO IGUACU HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69045.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RPC FOZ DO IGUAÇU FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69046.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RPC PARANA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69047.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RBS TV SANTA MARIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91914.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RIBEIRAO PRETO ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8864.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RIBEIRÃO PRETO ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21670.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO SUBAE BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91916.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO SANTA CRUZ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91911.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO SÃO JOSÉ DO RIO PRETO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30112.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20586.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8877.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO TV TEM SOROCABA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8878.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO TV TEM SOROCABA ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11728.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO TV TRIBUNA SANTOS 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21681.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO TV TRIBUNA SANTOS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8879.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO TV ANHANGUERA GOIANIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/88433.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO TV CENTRO AMERICA CUIABA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/88434.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO TV MIRANTE ( MARANHÃO )
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69051.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20539.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO VANGUARDA TV S.J DOS CAMPOS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20541.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO VANGUARDA TV S.J DOS CAMPOS HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71480.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21658.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO MINAS FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81629.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71815.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO MINAS HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21663.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO NSC TV CHAPECO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/89811.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO NSC BLUMENAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69214.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO INTER TV GRANDE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71817.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO VERDES MARES FORTALEZA ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21678.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO VITORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21679.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO EPTV SÃO CARLOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30092.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO FLORIANOPOLIS HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30093.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO INTER TV DOS VALES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/92857.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO INTER TV ALTO LITORAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/67169.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO INTER TV SERRA MAR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/67170.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO RPC MARINGA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/72612.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8891.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8890.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GNT HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/66901.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GNT HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/66902.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO NEWS FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81598.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8853.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8854.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO NEWS HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30168.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOBO NEWS HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30169.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8888.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOOB FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8887.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69037.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HISTORY CHANNEL FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91404.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HISTORY CHANNEL ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69042.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HISTORY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8924.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8925.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HISTORY CHANNEL HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30211.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HISTORY CHANNEL 2  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8895.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HISTORY CHANNEL 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8894.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HISTORY CHANNEL 2 HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30208.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HISTORY CHANNEL 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30209.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8902.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8903.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31862.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31863.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8897.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8898.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO 2 HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31859.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93899.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8901.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8900.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO FAMILY HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31860.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO FAMILY HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31861.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO MUNDI FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8904.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8905.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO MUNDI HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31864.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO MUNDI HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93900.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO POP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24593.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8911.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO POP HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31867.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO POP HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93901.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO SIGNATURE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8912.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8914.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO SIGNATURE HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31868.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO SIGNATURE HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31869.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO PLUS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24592.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11771.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO PLUS HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31865.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO PLUS HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31866.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO XTREME FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13535.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8916.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HBO XTREME HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/31870.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8922.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8923.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HGTV HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30210.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OFF FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8997.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OFF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8998.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PRIMEBOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9040.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PARAMOUNT CHANNEL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13546.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PARAMOUNT CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9007.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9008.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PARAMOUNT CHANNEL HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35240.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PARAMOUNT CHANNEL HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35241.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE CLUBES FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81579.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE CLUBES FHD H.265 ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/94126.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9037.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9039.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE CLUBES HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91393.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE CLUBES HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30045.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE CLUBES HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/54903.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE CLUBES FHD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30043.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE CLUBES FHD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/54902.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 2 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81582.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 2 FHD H.265 ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81614.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 2 ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69029.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9022.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30048.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9021.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 2 FHD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30047.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 2 FHD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/54904.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 3 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81583.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 3 ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69031.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30051.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 3 HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24152.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 3 HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9026.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 3 FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30050.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 3 FHD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9024.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 4 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81616.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 4 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69032.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 4 ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69033.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9028.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 4 HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30054.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 4 HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/54907.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24150.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 4 FHD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30053.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 4 FHD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/54906.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 5 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/82751.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 5 ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69035.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9029.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 5 FHD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30056.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 5 FHD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/54908.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9031.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 5 HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30057.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 5 HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/54909.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 6 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/82753.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9032.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/54910.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 6 FHD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30059.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 6 HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/46844.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 6 HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/54911.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9035.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13581.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30063.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PREMIERE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9036.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] POWER COUPLE BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/82766.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] POWER COUPLE BRASIL HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/83753.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD SP FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/82755.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD SP HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/43236.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9051.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35842.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/38066.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12888.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD FHD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/38065.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD AMAZONAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12986.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD MINAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9055.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9063.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71697.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD RJ HD"
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71696.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD RJ HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12993.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD MG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9054.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9065.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD TV PARANA MARINGÁ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93892.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD BAHIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12987.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12988.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD SERGIPE TV ATALAIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71481.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9058.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECORD NEWS HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30170.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] REDETV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/29125.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] REDETV HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/33455.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] REDETV HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/33457.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] REDETV HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/33456.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81580.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81610.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9082.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9084.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30120.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT  HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9092.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/26721.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT RJ HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35844.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT RH HD ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/82767.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91907.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT BSB HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91908.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT ES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91909.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT SERGIPE TV APERIPER HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91910.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT ALTEROSA MG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/88431.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT PARANA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/88432.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT  JANGADEIRO CEARÁ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/83755.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT ARATU BAHIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12994.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SBT CIDADE VERDE PIAUI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12995.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SONY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9098.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SONY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9099.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SONY HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35242.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SONY HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35243.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPACE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9101.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9102.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPACE HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35244.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPACE HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35245.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9122.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SYFY HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35248.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SYFY HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35249.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STUDIO UNIVERSAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9115.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9117.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STUDIO UNIVERSAL HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35246.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STUDIO UNIVERSAL HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35247.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81591.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV FHD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/91919.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9107.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9111.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30126.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30127.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV 2 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81592.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9103.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9104.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV 2 HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30122.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV 2 HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30123.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV 3 FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81593.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9106.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9105.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV 3 HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30124.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPORTV 3 HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30125.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT FHD H.265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81603.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9141.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9142.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35252.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35253.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SÉRIES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24156.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SÉRIES FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9144.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SÉRIES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9145.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SÉRIES HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35254.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SÉRIES HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35255.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9124.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9126.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9127.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE ACTION HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30134.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE ACTION HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30135.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE CULT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11770.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9128.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE CULT HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30136.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE CULT HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30137.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE FUN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9129.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9130.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE FUN HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30138.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE FUN HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30139.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE PIPOCA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9131.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9132.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE PIPOCA HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30140.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE PIPOCA HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30141.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE PREMIUM FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9133.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9134.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE PREMIUM HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30142.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE TOUCH FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9135.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9136.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE TOUCH HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30144.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TELECINE TOUCH HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30145.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TOONCAST FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9150.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TRU TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12953.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TRU TV HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30214.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SPORTS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71700.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71699.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SPORTS HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/81595.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71701.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71702.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71703.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71704.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71705.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TNT SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/71706.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] LIFETIME FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8943.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8944.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] LIGA FUTSAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93918.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] LIGA FUTSAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/79818.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] LIGA FUTSAL 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/79819.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] LIGA FUTSAL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/93919.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21683.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] UNIVERSAL CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21682.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9212.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] UNIVERSAL CHANNEL HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35256.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] UNIVERSAL CHANNEL HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35257.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] VIVA ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/43930.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] VIVA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9215.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9216.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] VIVA HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/33453.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MEGAPIX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8961.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8962.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MEGAPIX HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35238.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MEGAPIX HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35239.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MÚSICA INFANTIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8978.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MUSICBOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8977.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NATGEO KIDS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8980.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8981.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NICK JR FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13544.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8986.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NICKELODEON FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8988.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8989.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NATGEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8982.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NATGEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8983.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NATGEO WILD HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30206.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NATGEO WILD HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30207.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NATIONAL GEOGRAPHIC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8984.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/8985.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NATIONAL GEOGRAPHIC HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/30213.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NBA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/68481.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] WARNER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21684.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] WARNER FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9219.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] WARNER HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9220.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] WARNER HD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35258.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] WARNER HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/35259.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9224.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ZOOMOO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/9230.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR]  THE GARFIELD SHOW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11459.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] 101 DALMATAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13121.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A CASA DO MICKEY MOUSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12933.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A FORMIGA ATÔMICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12922.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A GRANDE FAMÍLIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12923.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A GUARDA DO LEA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12924.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A LENDA DE KORRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13123.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A MANSÃO FOSTER PARA AMIGOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24125.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A PANTERA COR DE ROSA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24126.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A PARAÇA É NOSSA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11426.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A PEQUENA SEREIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11425.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A VACA E O FRANGO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11427.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A VILA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13122.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AEROPORTO AREA RESTRITA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69266.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ALADDIN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13143.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ALF O ETEIMOSO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11431.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ALINE BARROS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11432.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AMERICAN DAD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13142.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ANGRY BIRDS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13141.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] APENAS UM SHOW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69269.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ARNOLD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13144.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AS AVENTURAS DE JACKIE CHAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11265.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AS AVENTURAS DE LADYBUG
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11729.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AS AVENTURAS DE TINTIM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11435.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AS MENINAS SUPER PODEROSAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12925.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AS MUMIAS VIVAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11436.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] AS VISÕES DE RAVEN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11438.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BABYFIRST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11439.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BABYLOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11756.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BANANAS DE PIJAMAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20761.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BATMAN DO FUTURO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11441.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BEN 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13145.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BEN E HOLLY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11443.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BEYBLADE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11444.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BIG MOUTH
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11446.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BINGO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11447.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BLACK KAMEN RIDER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11471.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BOB O TREM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11757.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BOB ZOOM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11758.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BRAVESTAR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/29134.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] BUCKY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11475.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CADILLACS E DINOSSAUROS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11477.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CAILLOU
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11478.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CAPITÃO CAVERNA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11473.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CAPITÃO PLANETA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12926.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CAPTAIN TSUBASA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/29129.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CARANGOS E MOTOCAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20527.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CARMEN SANDIEGO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34816.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CAVALO DE FOGO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11481.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CAVERNA DO DRAGAO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11247.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CAÇA FANTASMA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13126.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CHAPOLIN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11483.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CHARLIE BROWN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20214.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CHAVES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11484.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CHIPs
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69270.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONTOS DA CRYPTA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11738.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CONTOS DA MASHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11486.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CORAGEM - O CÃO COVARDE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24127.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] COXINHA E DOQUINHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11490.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] CÂMERA ESCONDIDAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11735.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DE FÉRIAS COM O EX BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21021.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DENIS O PIMENTINHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13127.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DESENHOS DA BIBLIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11730.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DOIS HOMENS E MEIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20762.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DONALD DUCK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11494.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DOUG
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13128.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DRAGON BALL GT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20529.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DRAGON BALL SUPER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20530.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DRAGONS RESCUE RIDERS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12927.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DRAMA TOTAL - ILHA DOS DESAFIOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11502.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DU,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DUDU E EDU
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11759.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] DUCK TALES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13129.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ESCOLINHA DO PROFESSOR RAIMUNDO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11745.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] EU,[B][COLOR orange][B]SUPER TV[/B][/COLOR] A PATROA E AS CRIANÇAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11251.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FAMILIA DINOSSAURO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20531.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FAÍSCA E FUMAÇA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11760.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] FLASH GORDON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11761.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GALINHA PINTADINHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11252.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GAME OF THRONES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34840.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GATO FELIX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13130.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GAVAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11762.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GEORGE O CURIOSO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11763.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GODZILLA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11739.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] GRAVITY FALLS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11765.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HARVEY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/29133.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HE-MAN - E OS MESTRES DO UNIVERSO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11766.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HERCULES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/43900.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HOMEM ARANHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11746.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HONG KONG FU
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24129.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HORA DO PESADELO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69268.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] HUNTER X HUNTER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11767.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] IMPÉRIO SALVAGEM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13131.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] JACARELVIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11768.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] JHONNY BRAVO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20545.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] JHONNY QUEST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20547.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] JHONNY TEST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20546.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] JIRAYA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20544.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] KAMEN RAY RX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24130.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] KARATEKID
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11741.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] KENAN & KEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/73182.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] KIKO E SUA TURMA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11736.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] KND - A TURMA DO BAIRRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20548.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] KRYPTO O SUPERAÇÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20549.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] LARVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20550.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] LIGA DA JUSTIÇA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20552.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] LÉO O CAMINHÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20551.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MARINHEIRO POPEYE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11238.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MAZZAROPI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/73183.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MEGA MEN 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20554.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MEGABOTS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20553.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MEU AMIGÃOZÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11754.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MEU CAVALO MEU BRETÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20555.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MEU CORPO MEU DESAFIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20556.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MEU TITIO AVÔ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/29127.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MICKEY E MOUSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11747.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MORANGUINHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11731.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MR. BEAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11748.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] MUNDO BITA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/72433.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] NARUTO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12880.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] O CHEFINHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20557.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] O INSPETOR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20558.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] O MASKARA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24131.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] O SOCIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/29135.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OGGY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12928.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] ONE PUNCH MEN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20559.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OS 3 PATETAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20760.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OS ANJINHOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/29130.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OS CAVALEIROS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20560.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OS FLINTSTONES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11742.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OS GÁRGULAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13132.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OS JETSONS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20561.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OS NORMAIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/72611.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OS RONI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/72610.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OS SIMPSONS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12934.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OS SUPER PATOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20562.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OS TRAPALHÕES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12935.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] OS VALENTES CAWBOYS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20563.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PADRINHOS MÁGICOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13140.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PATRULHA CANINA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12929.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PEGADINHAS DO JOÃO KLEBER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11732.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PEPPA PIG
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11737.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PESADELO NA COZINHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11555.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] PICA PAU
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11743.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] POCOYO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11733.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] POLICIA 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34414.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] POWER RANGER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11744.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RAMBO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20564.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RECRUTA ZERO VARIOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/20565.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RICKY E MORTY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12930.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] RICOCHETE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/29132.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SAGA MAGIN BOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24128.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SAI DE BAIXO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11749.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SAKURA KARD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24132.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SAMURAI WARRIORS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11750.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SCOOBY DOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11751.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SHAIDER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11467.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SHAZZAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/29126.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SHE RA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13133.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SHOW DE PIADAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/72609.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SHOW DO ZÉ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11469.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SHURATO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11470.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SITIO DO PICA PAU AMARELO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11462.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SOUTH PARK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13134.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SPEED RACER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11752.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STEVEN UNIVERSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13135.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] STREET FIGHTER II
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13136.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SUPER AMIGOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/21020.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] SUPER ONZE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12931.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TA NO AR: A TV NA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/43902.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] THE BING BANG THEORY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/23986.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] THE LOUD HOUSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/24133.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] THE WALKING DEAD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34841.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] THUNDERCATS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/72608.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TIMÃO E PUMBA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34818.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TINKER BEL 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34819.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TINY TOON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/34817.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TO DE GRAÇA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/43901.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TODO MUNDO ODEIA O CRIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13137.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TOM & JERRY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/12932.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TURMA DA MONICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11734.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TURMA DO DIDI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/69267.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] TUTUBARÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/29128.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] UM MALUCO NO PEDAÇO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13124.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] URSINHOS CARINHOSOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13138.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] URSINHOS GUMI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/29131.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] W.I.T.C.H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11753.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] X-MEN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/13139.m3u8
+#EXTINF:-1,[B][COLOR orange][B]SUPER TV[/B][/COLOR] YIN YANG YO!
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER TV!!;url=http://paineliptv8.xyz:2082/live/126835/427266/11453.m3u8
