@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4AkYhKQ.png",[COLOR red][B]GPSCELL || FILMES[/B][/COLOR][COLOR pink][B]Atualizado: 16-07[/B][/COLOR]
-127.0.0.1/16/07/ 39,080
 #EXTINF:-1 tvg-id="" tvg-name="LUCA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lk7QISmTam2iOzzUAQYs6voeFg.jpg" group-title="FILMES: LANCAMENTOS",LUCA
 http://cdnrede.com:80/movie/romario321/romario123/207526.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SAMURAI X O FINAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzKKUblhyvv7nWyfJCLT69GijOA.jpg" group-title="FILMES: LANCAMENTOS",SAMURAI X O FINAL
